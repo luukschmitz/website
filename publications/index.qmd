@@ -5,7 +5,7 @@ toc: true
 
 This is an overview of my academic and non-academic publications, as well as ongoing work.
 
-## Peer-reviewed articles
+## Journal articles
 
 (with Timo Seidl): Moving on not to fall behind? Technological sovereignty and the 'geo-dirigiste' turn in EU industrial policy. *Journal of European Public policy*. [Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2248204) \| [replication materials](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2023.2248204?scroll=top).
 
@@ -17,7 +17,7 @@ This is an overview of my academic and non-academic publications, as well as ong
 
 ## Book chapters
 
-(with Andrea K. Gerlak and colleagues): Power(ful) and Power(less): A Review of Power in the ESG–Agency Scholarship. In M. Betsill, T. Benney, & A. Gerlak (Eds.), Agency in Earth System Governance (pp. 65-72). Cambridge: Cambridge University Press. [Chapter](https://www.cambridge.org/core/books/abs/agency-in-earth-system-governance/powerful-and-powerless-a-review-of-power-in-the-esgagency-scholarship/29D6B6636BC9230E45E0B20C5247CC3A).
+(with Andrea K. Gerlak and colleagues): Power(ful) and Power(less): A Review of Power in the ESG--Agency Scholarship. In M. Betsill, T. Benney, & A. Gerlak (Eds.), Agency in Earth System Governance (pp. 65-72). Cambridge: Cambridge University Press. [Chapter](https://www.cambridge.org/core/books/abs/agency-in-earth-system-governance/powerful-and-powerless-a-review-of-power-in-the-esgagency-scholarship/29D6B6636BC9230E45E0B20C5247CC3A).
 
 ## Working papers
 
@@ -42,3 +42,5 @@ De Europese markt heeft industriepolitiek op Europees niveau nodig. *NRC Handels
 As open as Possible, as Autonomous as Necessary -- Understanding the Rise of Open Strategic Autonomy. (with Timo Seidl). *Ideas on Europe Blog* [entry](https://jcms.ideasoneurope.eu/2022/11/03/as-open-as-possible-as-autonomous-as-necessary-understanding-the-rise-of-open-strategic-autonomy/).
 
 Reflections on how COVID-19 is reshaping the EU's industrial strategy. *EUIdeas blog* [entry](https://euideas.eui.eu/2020/06/04/reflections-on-how-covid-19-is-reshaping-the-eus-industrial-strategy/).
+
+Central and Eastern European countries at the crossroads: Why governments should reject investment arbitration in TTIP. (With Cecilia Olivet and Pietje Vervest). *TNI Policy Brief*. [Link](https://www.tni.org/files/download/governments_should_reject_isds_in_ttip.pdf).

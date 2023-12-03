@@ -46,8 +46,8 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      - lightly
-      - html/styles.scss
+      light: html/styles.scss
+      dark: darkly
     toc: false
     code-link: true
     anchor-sections: true
