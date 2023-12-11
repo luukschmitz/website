@@ -5,8 +5,13 @@ title: "Blog"
 Note to self: write some blog posts!
 
 ::: {layout-ncol="2"}
-Test left column
+**Verelendungspolitik**. Description of blog content.
 
-Test right column
+![](gandalf_image_4.jpg){width="200"}
+:::
 
+::: {layout-ncol="2"}
+**Fourth-wave Reactionism**. Description of blog content.
+
+![](gandalf_image_2.jpg){width="200"}
 :::

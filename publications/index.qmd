@@ -3,7 +3,7 @@ title: "Publications"
 toc: true
 ---
 
-This is an overview of my academic and non-academic publications, as well as ongoing work.
+This is an overview of my academic and non-academic publications, as well as ongoing work. You can also view them on my [Google Scholar](https://scholar.google.nl/citations?user=oFDW6tIAAAAJ) profile.
 
 ## Journal articles
 
@@ -21,7 +21,7 @@ This is an overview of my academic and non-academic publications, as well as ong
 
 ## Working papers
 
-(with Timur Ergen): Climate Change and Managed Decline in the European Union. *MPIfG discussion paper*. (forthcoming).
+(with Timur Ergen): The Sunshine Problem. Climate Change and Managed Decline in the European Union. *MPIfG discussion paper*. (forthcoming).
 
 (with Timo Seidl): Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU's Trade and Digital Policies. *Preprint*. [Paper](https://doi.org/10.31235/osf.io/wjb64).
 
