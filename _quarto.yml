@@ -19,6 +19,8 @@ website:
         href: cv/index.qmd
       - text: "Blog"
         href: blog/index.qmd
+      - text: "Presentations"
+        href: ipcei/politics-of-constraints.html
 
 
 # Don't touch unless you know what you are doing :) ------------
