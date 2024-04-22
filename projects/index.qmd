@@ -3,6 +3,18 @@ title: Projects
 toc: true
 ---
 
+## Changing the Calculus on Economic Security
+
+![](security.jpg)
+
+After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic competition and economic security. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?
+
+The core intuition behind the project is to place (real or imagined) security imperatives center stage. The aim of this project is to find out how such imperatives increasingly shape economic policy interventions, as well as corporate decision-making. We currently lack the theoretical and methodological toolkit to tackle such questions. 
+
+The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=12.825) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time. In a first step, I aim to map theoretically and empirically what such an economic 'calculus' is, and how it is changing. In a follow-up paper, I want to analyze who are the winners and losers of geoeconomic competition.
+
+------------------------------------------------------------------------
+
 ## European industrial policy
 
 ![](ip.png)
@@ -20,11 +32,3 @@ Post-PhD, I will focus on understanding how the demands for state intervention p
 ![](sa.png)
 
 The EU's Recovery and Resilience Fund, the flexibility around EU state aid and fiscal rules, as well as member state industrial policies have one thing in common: they extensively exploit treaty flexibility and exceptions, if not outright violating them. As governing by exception seems to be the only way forward in a highly politicized and institutionally rigid environment, it is key to understand both the drivers and consequences of this emerging regime governing EU economic policy.
-
-------------------------------------------------------------------------
-
-## Changing the Calculus on Economic Security
-
-![](security.jpg)
-
-After several decades of intensifying globalization, the world has entered a new phase of strategic competition centered around geoeconomic motives. Buzzwords such as reshoring and de-risking dominate policy discourse and quarterly earnings reports. The mainstream economic view centered around price signals and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by policy makers. How has this security-based logic entered into polycymakers' rulebooks? Why is security supplanting efficiency as a calculative logic? And to what extent does this change open more public pathways to scrutinize economic policy? The aim of this project is to find out not only the drivers and coalitions behind the changing economic calculus, but also to see whether this moment repoliticizes economic policy. Depoliticization through international law and the empowerment of expertise-driven and technocratic institutions such as central banks and credit rating agencies were arguably the hallmark of economic policymaking in the last decades. While the move to bolster economic security is the first genuine challenge to this constellation, it carries its own sources of depoliticization that, once again, remove economic and distributive choices from spheres of public debate and democratic accountability.
