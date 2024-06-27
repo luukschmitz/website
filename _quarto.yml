@@ -20,7 +20,7 @@ website:
       - text: "Blog"
         href: blog/index.qmd
       - text: "presentations"
-        href: presentations/politics-of-constraints.html
+        href: presentations/docs/index.html
 
 
 # Don't touch unless you know what you are doing :) ------------

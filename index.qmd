@@ -28,7 +28,7 @@ Hello! I am a senior researcher at the Max Planck Institute for the Study of Soc
 
 My research deals with structural transformations in (European) political economy as a result of geoeconomic competition and economic security imperatives. I am interested in how security (re)politicizes economic policymaking, how it changes actor preferences, and how it impacts old and emerging fault lines over the question what kind of an economy we want to live in. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.
 
-You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests.
+You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests. 
 
 ::: {#about-block}
 :::
