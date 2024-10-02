@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Luuk Schmitz",
     "section": "",
-    "text": "Luuk Schmitz\n\nHello! I am a senior researcher at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. I hold a PhD in political and social science from the European University Institute with a dissertation on European industrial policy.\nMy research deals with structural transformations in (European) political economy as a result of geoeconomic competition and economic security imperatives. I am interested in how security (re)politicizes economic policymaking, how it changes actor preferences, and how it impacts old and emerging fault lines over the question what kind of an economy we want to live in. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.\nYou can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests."
+    "text": "Luuk Schmitz\n\nHello! I am a senior researcher at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. I hold a PhD in political and social science from the European University Institute with a dissertation on European industrial policy.\nMy research deals with the political economy of geoeconomics. I am interested in how multinational firms operate under geoeconomic tensions, how geoeconomics reshape trade and investment patterns, and how this affects Europe’s role in the world. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.\nYou can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests."
   },
   {
     "objectID": "projects/index.html#european-industrial-policy",
@@ -117,5 +117,19 @@
     "title": "Publications",
     "section": "Journal articles",
     "text": "Journal articles\n(with Timo Seidl): Moving on not to fall behind? Technological sovereignty and the ‘geo-dirigiste’ turn in EU industrial policy. Journal of European Public policy. Paper | replication materials.\n(with Donato Di Carlo): Europe First? The rise of EU industrial policy promoting and protecting the single market. Journal of European Public Policy. Paper.\n(with Timo Seidl): As open as possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy. Journal of Common Market Studies. Paper.\n(with Thomas R. Eimer): From Coherence to Coheritization: explaining the rise of policy coherence in EU external policy. Globalizations. Paper."
+  },
+  {
+    "objectID": "projects/index.html#europes-geoeconomic-predicament",
+    "href": "projects/index.html#europes-geoeconomic-predicament",
+    "title": "Projects",
+    "section": "Europe’s Geoeconomic Predicament",
+    "text": "Europe’s Geoeconomic Predicament\n\nDissertation\nWhy is industrial policy en vogue in the European Union? Given the EU’s market-making impetus, tilt towards fiscal austerity, and limits to subsidizing state aid, the turn to an active and targeted industrial policy in the last years is surprising. My dissertation documents this moment of After Market Making. I argue that a declining belief in open markets and economic efficiency as the sole propagators of ‘good’ economic outcomes has mobilized a coalition of firms, business associations, and trade unions to challenge the EU’s market-based governance regime. This is visible in EU trade policy, now understood in terms of open strategic autonomy, and especially visible in digital and high-tech fields and in the green transition, often discussed under the rubric of the ‘twin transitions’.\nPost-PhD, I will focus on understanding how the demands for state intervention play out on the ground: can market-making institutions be repurposed for state intervention?"
+  },
+  {
+    "objectID": "projects/index.html#mesonomics-rescaling-political-economy",
+    "href": "projects/index.html#mesonomics-rescaling-political-economy",
+    "title": "Projects",
+    "section": "Mesonomics: rescaling political economy",
+    "text": "Mesonomics: rescaling political economy\n\nMesonomics. Firm-level data, sectoral disaggregation. Complex networks."
   }
 ]

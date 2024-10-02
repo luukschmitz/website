@@ -26,7 +26,7 @@ about:
 
 Hello! I am a senior researcher at the Max Planck Institute for the Study of Societies ([MPIfG](https://www.mpifg.de/2733/en)) in Cologne. I hold a PhD in political and social science from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) with a dissertation on European industrial policy.
 
-My research deals with structural transformations in (European) political economy as a result of geoeconomic competition and economic security imperatives. I am interested in how security (re)politicizes economic policymaking, how it changes actor preferences, and how it impacts old and emerging fault lines over the question what kind of an economy we want to live in. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.
+My research deals with the political economy of geoeconomics. I am interested in how multinational firms operate under geoeconomic tensions, how geoeconomics reshape trade and investment patterns, and how this affects Europe's role in the world. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.
 
 You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests. 
 
