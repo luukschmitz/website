@@ -7,11 +7,11 @@ toc: true
 
 ![](security.jpg)
 
-After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic competition and economic security. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?
+After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic fragmentation. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?
 
 The core intuition behind the project is to place (real or imagined) security imperatives center stage. The aim of this project is to find out how such imperatives increasingly shape economic policy interventions, as well as corporate decision-making. We currently lack the theoretical and methodological toolkit to tackle such questions. 
 
-The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=12.825) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time. In a first step, I aim to map theoretically and empirically what such an economic 'calculus' is, and how it is changing. In a follow-up paper, I want to analyze who are the winners and losers of geoeconomic competition.
+The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=14.101) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time. In a first step, I aim to map theoretically and empirically what such an economic 'calculus' is, and how it is changing. In a follow-up paper, I want to analyze who are the winners and losers of geoeconomic competition.
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Post-PhD, I will focus on understanding how the demands for state intervention p
 
 ------------------------------------------------------------------------
 
-## Mesonomics: rescaling political economy
+## Mesonomics: Rescaling political economy
 
 ![](vw.png)
 
