@@ -7,13 +7,17 @@ This is an overview of my academic and non-academic publications, as well as ong
 
 ## Journal articles
 
-(with Timo Seidl): Moving on not to fall behind? Technological sovereignty and the 'geo-dirigiste' turn in EU industrial policy. *Journal of European Public policy*. [Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2248204) \| [replication materials](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2023.2248204?scroll=top).
+Ergen, T., & **Schmitz, L**. (2025): Picking Losers: Climate Change and Managed Decline in the European Union. *Regulation & Governance*. [Paper](https://onlinelibrary.wiley.com/doi/10.1111/rego.70004).
 
-(with Donato Di Carlo): Europe First? The rise of EU industrial policy promoting and protecting the single market. *Journal of European Public Policy*. [Paper](https://doi.org/10.1080/13501763.2023.2202684).
+**Schmitz, L**., Seidl, T. & Wuttke, T. (2025): The costs of conditionality. IPCEIs and the constrained politics of EU industrial policy. *Competition & Change*. [Paper](https://journals.sagepub.com/doi/10.1177/10245294251320675) \| [online appendix](https://journals.sagepub.com/doi/10.1177/10245294251320675#appendix).
 
-(with Timo Seidl): As open as possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy. *Journal of Common Market Studies*. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jcms.13428).
+Seidl, T., & S**chmitz, L**. (2024): Moving on not to fall behind? Technological sovereignty and the 'geo-dirigiste' turn in EU industrial policy. *Journal of European Public policy 31*(8). [Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2248204) \| [replication materials](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2023.2248204?scroll=top).
 
-(with Thomas R. Eimer): From Coherence to Coheritization**:** explaining the rise of policy coherence in EU external policy. *Globalizations*. [Paper](https://www.tandfonline.com/doi/full/10.1080/14747731.2019.1676103).
+Di Carlo, D., & **Schmitz, L**. (2023): Europe First? The rise of EU industrial policy promoting and protecting the single market. *Journal of European Public Policy 30*(10). [Paper](#0).
+
+**Schmitz, L**., & Seidl, T. (2023): As open as possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy. *Journal of Common Market Studies* *61*(3). [Paper](#0).
+
+**Schmitz, L**., & Eimer, T.R. (2020): From Coherence to Coheritization**:** explaining the rise of policy coherence in EU external policy. *Globalizations 17*(4). [Paper](https://www.tandfonline.com/doi/full/10.1080/14747731.2019.1676103).
 
 ## Book chapters
 
@@ -21,17 +25,17 @@ This is an overview of my academic and non-academic publications, as well as ong
 
 ## Working papers
 
-(with Timo Seidl and Tobias Wuttke): The Costs of Conditionality. IPCEIs and the Constrained Politics of EU Industrial Policy. *OSF preprint*. [Paper](https://osf.io/preprints/osf/f63gd).
+Cova, J., & **Schmitz, L**. (2024): A primer for the use of classifier and generative large language models in social science research. *OSF Preprint*. [Paper](https://osf.io/preprints/osf/r3qng_v1) \| [replication materials](https://github.com/joshcova/LLMs-for-social-scientists/tree/main).
 
-(with Timur Ergen): The Sunshine Problem. Climate Change and Managed Decline in the European Union. *MPIfG discussion paper 2023/6*. [Paper](https://pure.mpg.de/pubman/item/item_3559564_2/component/file_3559565/mpifg_dp23_6.pdf).
+**Schmitz, L**., Seidl, T. & Wuttke, T. (2024): The Costs of Conditionality. IPCEIs and the Constrained Politics of EU Industrial Policy. *OSF preprint*. [Paper](https://osf.io/preprints/osf/f63gd).
 
-(with Timo Seidl): Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU's Trade and Digital Policies. *OSF preprint*. [Paper](https://doi.org/10.31235/osf.io/wjb64).
+Ergen, T., & **Schmitz, L** (2023): The Sunshine Problem. Climate Change and Managed Decline in the European Union. *MPIfG discussion paper 2023/6*. [Paper](https://pure.mpg.de/pubman/item/item_3559564_2/component/file_3559565/mpifg_dp23_6.pdf).
+
+**Schmitz, L**., & Seidl, T. (2022): Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU's Trade and Digital Policies. *OSF preprint*. [Paper](https://doi.org/10.31235/osf.io/wjb64).
 
 ## Work in progress
 
-The Costs of Conditionality. IPCEIs and the Constrained Politics of EU Industrial Policy. R&R. With Timo Seidl and Tobias Wuttke.
-
-Discipline and Profits: The Multinational Firm under Economic Statecraft. *Unpublished manuscript*.
+Discipline and Profits: Geopolitics and the Great Restructuring of the Firm. *Unpublished manuscript (available upon request)*.
 
 Changing the Calculus: How Security Displaces Efficiency in Global Economics. *Unpublished manuscript*.
 
