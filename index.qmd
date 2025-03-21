@@ -11,8 +11,6 @@ about:
       href: https://www.linkedin.com/in/luuk-schmitz-7a373121/
     - icon: envelope
       href: mailto:luuk.schmitz@mpifg.de
-    - icon: twitter-x
-      href: https://twitter.com/Luukschmitz
 ---
 <br> <br> <br>
 
