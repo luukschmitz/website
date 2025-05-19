@@ -24,7 +24,7 @@ Hello! I am a senior researcher at the Max Planck Institute for the Study of Soc
 
 My research deals with the political economy of geoeconomics. I am interested in how multinational firms operate under geoeconomic tensions, how geoeconomics reshape trade and investment patterns, and how this affects decarbonization and the green transition. Geographically, I focus mostly on the European Union. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.
 
-You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests. 
+You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests.
 
 ::: {#about-block}
 :::
