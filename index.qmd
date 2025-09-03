@@ -16,9 +16,9 @@ about:
 
 <center><div class="circular--landscape"> <img src="ls.jpg" /> </div></center>
 
-<center>
+<div style="text-align: center;">
 # Luuk Schmitz
-</center>
+</div>
 
 Hello! I am a senior researcher at the Max Planck Institute for the Study of Societies ([MPIfG](https://www.mpifg.de/2733/en)) in Cologne. I hold a PhD in political and social science from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) with a dissertation on European industrial policy.
 
