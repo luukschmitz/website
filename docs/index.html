@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,10 +33,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4de59a806914905d85c050922a6f71f3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -131,13 +131,13 @@ ul.task-list li input[type="checkbox"] {
 </center>
 <center>
 <section id="luuk-schmitz" class="level1">
-<h1>Luuk Schmitz</h1>
+
 </section></center>
 <p>Hello! I am a senior researcher at the Max Planck Institute for the Study of Societies (<a href="https://www.mpifg.de/2733/en">MPIfG</a>) in Cologne. I hold a PhD in political and social science from the <a href="https://www.eui.eu/en/academic-units/political-and-social-sciences">European University Institute</a> with a dissertation on European industrial policy.</p>
 <p>My research deals with the political economy of geoeconomics. I am interested in how multinational firms operate under geoeconomic tensions, how geoeconomics reshape trade and investment patterns, and how this affects decarbonization and the green transition. Geographically, I focus mostly on the European Union. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.</p>
 <p>You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests.</p>
 <div class="quarto-about-jolla">
- <div id="about-block">
+ <header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Luuk Schmitz</h1></header><div id="about-block">
 </div> 
   <hr class="about-sep">
    <div class="about-links">
@@ -239,8 +239,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -351,7 +349,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
