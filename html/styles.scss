@@ -369,24 +369,30 @@ h1, h2, h3, h4, h5, h6 {
   visibility: visible !important;
 }
 
-/* Jolla template specific - clean icon styling */
-.quarto-about-jolla {
-  .about-entity {
-    .about-links {
-      border: none !important;
-      
-      .about-link {
-        border: none !important;
-        background: transparent !important;
-        padding: 0 !important;
-        margin: 0 0.5rem;
-        box-shadow: none !important;
-        
-        .about-link-text {
-          display: none !important;
-        }
-      }
-    }
+/* Jolla template specific - clean icon styling - override Quarto defaults */
+div.quarto-about-jolla .about-links {
+  border: none !important;
+}
+
+div.quarto-about-jolla .about-link {
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  margin: 0 0.5rem !important;
+  box-shadow: none !important;
+  color: $charcoal !important;
+  
+  &:hover {
+    color: $forest !important;
+    border: none !important;
+  }
+  
+  .about-link-text {
+    display: none !important;
+  }
+  
+  i.bi {
+    margin-right: 0 !important;
   }
 }
 
