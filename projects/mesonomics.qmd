@@ -2,15 +2,18 @@
 title: "Mesonomics: Rescaling Political Economy"
 subtitle: "Methodology"
 toc: true
+toc-title: "On this page"
 ---
 
 <a href="index.html" class="back-link">← Back to Projects</a>
 
-A major challenge for comparative and international political economists is the discrepancy between the behavior of statistical aggregates and individual agents. Our theories and methods of accounting remain separated between macro-institutional processes and micro-level outcomes that focus on individual firms, organizations, and sectors.
+:::: {.grid}
+
+::: {.g-col-12 .g-col-lg-7}
 
 ## The Reductionist Gamble
 
-To assume away complexity by ignoring one or the other is to engage in what Thomas Oatley has called the [reductionist gamble](https://www.cambridge.org/core/journals/international-organization/article/reductionist-gamble-open-economy-politics-in-the-global-economy/AEBC7A2C1F164ACC8517ADEF13FDFAAF).
+A major challenge for comparative and international political economists is the discrepancy between the behavior of statistical aggregates and individual agents. Our theories and methods of accounting remain separated between macro-institutional processes and micro-level outcomes that focus on individual firms, organizations, and sectors. To assume away complexity by ignoring one or the other is to engage in what Thomas Oatley has called the [reductionist gamble](https://www.cambridge.org/core/journals/international-organization/article/reductionist-gamble-open-economy-politics-in-the-global-economy/AEBC7A2C1F164ACC8517ADEF13FDFAAF).
 
 ## The Need for Meso-Level Analysis
 
@@ -18,6 +21,26 @@ With the advent of economic statecraft and the weaponization of markets for geop
 
 ## Current Applications
 
-The more widespread availability of firm-level data and the computational methods to analyze them now allows political economists to get more serious about addressing these questions.
+The more widespread availability of firm-level data and the computational methods to analyze them now allows political economists to get more serious about addressing these questions. In my current work, firm-level data plays a major role. Apart from the economic calculus project outlined above, I use data on the automobile industry to map the geographical dispersion and organization of car makers' supply chains.
 
-In my current work, firm-level data plays a major role. Apart from the economic calculus project outlined above, I use data on the automobile industry to map the geographical dispersion and organization of car makers' supply chains.
+:::
+
+::: {.g-col-12 .g-col-lg-5}
+
+![](/img/mesonomics.jpg)
+
+::: {.research-focus}
+**Research Focus**
+
+This work develops new analytical frameworks for understanding firm-level dynamics in political economy.
+:::
+
+::: {.related-work}
+**Related Work**
+
+See other projects exploring political economy and geoeconomic dynamics.
+:::
+
+:::
+
+::::

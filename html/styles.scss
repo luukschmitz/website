@@ -607,3 +607,155 @@ img {
   color: $forest;
   margin-top: 0.5rem;
 }
+
+
+/* ============================================
+   PROJECT DETAIL PAGE LAYOUT STYLES
+   ============================================ */
+
+/* Grid layout for project detail pages */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 2rem;
+  
+  @media (max-width: 991px) {
+    gap: 1.5rem;
+  }
+}
+
+.g-col-12 {
+  grid-column: span 12;
+}
+
+.g-col-lg-7 {
+  @media (min-width: 992px) {
+    grid-column: span 7;
+  }
+}
+
+.g-col-lg-5 {
+  @media (min-width: 992px) {
+    grid-column: span 5;
+  }
+}
+
+/* Project detail page image styling */
+.g-col-lg-5 img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2rem;
+}
+
+/* Research focus sidebar box */
+.research-focus {
+  background-color: $paper-warm;
+  border-left: 3px solid $forest;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 2px;
+  
+  strong {
+    font-family: $font-family-sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $forest;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+  
+  p {
+    font-family: $font-family-sans-serif;
+    font-size: 0.9rem;
+    color: $charcoal-light;
+    line-height: 1.6;
+    margin: 0;
+  }
+}
+
+/* Related work sidebar box */
+.related-work {
+  font-family: $font-family-sans-serif;
+  
+  strong {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $forest;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+  
+  p {
+    font-size: 0.9rem;
+    color: $charcoal-light;
+    line-height: 1.6;
+    margin: 0;
+  }
+}
+
+/* Table of contents styling for "On this page" */
+#toc {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  
+  .toc-title {
+    font-family: $font-family-sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $forest;
+    margin-bottom: 1rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+    li {
+      margin-bottom: 0.5rem;
+      
+      a {
+        font-family: $font-family-sans-serif;
+        font-size: 0.9rem;
+        color: $charcoal-light;
+        text-decoration: none;
+        transition: color 0.2s ease;
+        
+        &:hover {
+          color: $forest;
+        }
+      }
+    }
+  }
+}
+
+/* Ensure h1 heading displays properly on home page */
+#about-block + h1 {
+  font-family: $headings-font-family;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: $charcoal;
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Home page name heading styling */
+.quarto-about-jolla h1 {
+  font-family: $headings-font-family;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: $charcoal;
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
