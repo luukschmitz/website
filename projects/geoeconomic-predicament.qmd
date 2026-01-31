@@ -1,0 +1,21 @@
+---
+title: "Europe's Geoeconomic Predicament"
+subtitle: "Industrial Policy"
+toc: true
+---
+
+<a href="index.html" class="back-link">← Back to Projects</a>
+
+Why is industrial policy *en vogue* in the European Union? Given the EU's market-making impetus, tilt towards fiscal austerity, and limits to subsidizing state aid, the turn to an active and targeted industrial policy in the last years is surprising. My dissertation documents this moment of *After Market Making*.
+
+## The Challenge to Market-Based Governance
+
+I argue that a declining belief in open markets and economic efficiency as the sole propagators of 'good' economic outcomes has mobilized a coalition of firms, business associations, and trade unions to challenge the EU's market-based governance regime.
+
+## Manifestations
+
+This is visible in EU trade policy, now understood in terms of *open strategic autonomy*, and especially visible in digital and high-tech fields and in the green transition, often discussed under the rubric of the 'twin transitions'.
+
+## Future Research
+
+Post-PhD, I will focus on understanding how the demands for state intervention play out on the ground: can market-making institutions be repurposed for state intervention?

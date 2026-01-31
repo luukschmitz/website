@@ -3,18 +3,23 @@ title: Projects
 toc: false
 ---
 
+<p class="section-label">Research Portfolio</p>
+
+<div class="title-underline"></div>
+
 <p class="projects-intro">Exploring the intersection of political economy, geoeconomic competition, and industrial policy in an era of global transformation.</p>
 
 ::: {.projects-grid}
 
 ::: {.project-card}
-<a href="#changing-the-calculus-on-economic-security" class="project-link">
+<a href="economic-security.html" class="project-link">
 <div class="project-image">
 ![](security.jpg)
 </div>
 <div class="project-content">
 <span class="project-category">Geoeconomic Competition</span>
 <h3>Changing the Calculus on Economic Security</h3>
+<div class="project-divider"></div>
 <p>Analyzing how security imperatives reshape economic policy and corporate decision-making in an era of geoeconomic fragmentation.</p>
 <span class="read-more">Read More →</span>
 </div>
@@ -22,13 +27,14 @@ toc: false
 :::
 
 ::: {.project-card}
-<a href="#europes-geoeconomic-predicament" class="project-link">
+<a href="geoeconomic-predicament.html" class="project-link">
 <div class="project-image">
 ![](e.jpg)
 </div>
 <div class="project-content">
 <span class="project-category">Industrial Policy</span>
 <h3>Europe's Geoeconomic Predicament</h3>
+<div class="project-divider"></div>
 <p>Documenting the EU's surprising turn to active industrial policy and the challenge to market-based governance regimes.</p>
 <span class="read-more">Read More →</span>
 </div>
@@ -36,13 +42,14 @@ toc: false
 :::
 
 ::: {.project-card}
-<a href="#mesonomics-rescaling-political-economy" class="project-link">
+<a href="mesonomics.html" class="project-link">
 <div class="project-image">
 ![](vw.png)
 </div>
 <div class="project-content">
 <span class="project-category">Methodology</span>
 <h3>Mesonomics: Rescaling Political Economy</h3>
+<div class="project-divider"></div>
 <p>Bridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.</p>
 <span class="read-more">Read More →</span>
 </div>
@@ -50,29 +57,3 @@ toc: false
 :::
 
 :::
-
----
-
-## Changing the Calculus on Economic Security {#changing-the-calculus-on-economic-security}
-
-After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic fragmentation. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?
-
-The core intuition behind the project is to place (real or imagined) security imperatives center stage. The aim of this project is to find out how such imperatives increasingly shape economic policy interventions, as well as corporate decision-making. We currently lack the theoretical and methodological toolkit to tackle such questions. 
-
-The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=14.101) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time. In a first step, I aim to map theoretically and empirically what such an economic 'calculus' is, and how it is changing. In a follow-up paper, I want to analyze who are the winners and losers of geoeconomic competition.
-
----
-
-## Europe's Geoeconomic Predicament {#europes-geoeconomic-predicament}
-
-Why is industrial policy *en vogue* in the European Union? Given the EU's market-making impetus, tilt towards fiscal austerity, and limits to subsidizing state aid, the turn to an active and targeted industrial policy in the last years is surprising. My dissertation documents this moment of *After Market Making*. I argue that a declining belief in open markets and economic efficiency as the sole propagators of 'good' economic outcomes has mobilized a coalition of firms, business associations, and trade unions to challenge the EU's market-based governance regime. This is visible in EU trade policy, now understood in terms of *open strategic autonomy*, and especially visible in digital and high-tech fields and in the green transition, often discussed under the rubric of the 'twin transitions'.
-
-Post-PhD, I will focus on understanding how the demands for state intervention play out on the ground: can market-making institutions be repurposed for state intervention?
-
----
-
-## Mesonomics: Rescaling Political Economy {#mesonomics-rescaling-political-economy}
-
-A major challenge for comparative and international political economists is the discrepancy between the behavior of statistical aggregates and individual agents. Our theories and methods of accounting remain separated between macro-institutional processes and micro-level outcomes that focus on individual firms, organizations, and sectors. To assume away complexity by ignoring one or the other is to engage in what Thomas Oatley has called the [reductionist gamble](https://www.cambridge.org/core/journals/international-organization/article/reductionist-gamble-open-economy-politics-in-the-global-economy/AEBC7A2C1F164ACC8517ADEF13FDFAAF). With the advent of economic statecraft and the weaponization of markets for geopolitical purposes comes an urgent need to understand how states and firms interact across markets, supply chains, and financial networks. The discovery of such meso-level processes has been labeled [mesonomics](https://www.project-syndicate.org/onpoint/mesoeconomics-study-of-networks-supply-chains-key-to-successful-industrial-policies-by-william-h-janeway-2024-05). The more widespread availability of firm-level data and the computational methods to analyze them now allows political economists to get more serious about addressing these questions.
-
-In my current work, firm-level data plays a major role. Apart from the economic calculus project outlined above, I use data on the automobile industry to map the geographical dispersion and organization of car makers' supply chains.
