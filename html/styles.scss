@@ -1,15 +1,28 @@
 /*-- scss:defaults --*/
 
-.circular--landscape { display: inline-block; position: relative; width: 250px; height: 250px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -40px; }
+/* Editorial Academic Design System
+ * - Typography: Playfair Display (headlines) + Source Sans 3 (body)
+ * - Colors: Warm off-white, deep charcoal, forest green accent
+ * - Aesthetic: Scholarly, refined, clean layouts
+ */
 
-body, h1, h2, h3, h4, h5, h6 {
-  font-family: "Halifax W03 Bold";
-}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
 
-@import url(https://db.onlinewebfonts.com/c/a5c0262230ab76f7f7eef2977b44d554?family=Halifax+W03+Bold);
+/* Typography */
+$font-family-sans-serif: "Source Sans 3", system-ui, -apple-system, sans-serif !default;
+$headings-font-family: "Playfair Display", Georgia, serif !default;
 
-/* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
+/* Editorial Academic Color Palette */
+$paper: #F9F7F4 !default;
+$paper-warm: #F5F2ED !default;
+$charcoal: #2D2D2D !default;
+$charcoal-light: #4A4A4A !default;
+$forest: #3D5A47 !default;
+$forest-light: #4D6A57 !default;
+$forest-muted: #5A7A67 !default;
+$rule-line: #E5E0D8 !default;
 
+/* Bootstrap color overrides */
 $white:    #ffffff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
@@ -30,99 +43,301 @@ $red:     #CF4446 !default;
 $orange:  #EE6A24 !default;
 $light-orange:  #FB9E07 !default;
 $yellow:  #F6D645 !default;
-$green:   #118230 !default;
+$green:   $forest !default;
 $teal:    #29363B !default;
 $cyan:    #3093CF !default;
 
-$primary:   $teal!default;
+$primary:   $forest !default;
 $secondary: $gray-700 !default;
-$success:   $green !default;
+$success:   $forest !default;
 $info:      $cyan !default;
 $warning:   $orange !default;
 $danger:    $red !default;
 $light:     $gray-400 !default;
-$dark:      $black !default;
+$dark:      $charcoal !default;
 
+$body-bg: $paper !default;
+$body-color: $charcoal !default;
 
-
-// Links
-$link-color: $green !default;
-$link-decoration: $green !default;
-$link-hover-color: $green !default;
+/* Links */
+$link-color: $forest !default;
+$link-decoration: none !default;
+$link-hover-color: $forest-light !default;
 $link-hover-decoration: underline !default;
 
-// Footer
-$footer-bg: $teal !default;
-$footer-fg: $gray-300 !default;
+/* Footer */
+$footer-bg: $paper-warm !default;
+$footer-fg: $charcoal-light !default;
 
-// Inline code
+/* Inline code */
 $code-bg: $gray-200 !default;
 $code-color: $gray-900 !default;
 
-// TOC
-$toc-color: $green;
-$toc-font-size: 1em;
+/* TOC */
+$toc-color: $forest !default;
+$toc-font-size: 1em !default;
 
-// Code copy
+/* Code copy */
 $btn-code-copy-color-active: $orange !default;
 
+/* Circular image style for profile photo */
+.circular--landscape { 
+  display: inline-block; 
+  position: relative; 
+  width: 250px; 
+  height: 250px; 
+  overflow: hidden; 
+  border-radius: 50%; 
+} 
+
+.circular--landscape img { 
+  width: auto; 
+  height: 100%; 
+  margin-left: -40px; 
+}
 
 /*-- scss:rules --*/
 
+/* Base typography */
+body {
+  font-family: $font-family-sans-serif;
+  background-color: $paper;
+  color: $charcoal;
+}
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  color: $charcoal;
+}
+
+/* Main title styling */
+.title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: $paper !important;
+  border-bottom: 1px solid $rule-line;
+  
+  .navbar-brand {
+    font-family: $headings-font-family;
+    font-weight: 600;
+    font-size: 1.4rem;
+    color: $charcoal !important;
+    
+    &:hover {
+      color: $forest !important;
+    }
+  }
+  
+  .navbar-nav {
+    .nav-link {
+      font-family: $font-family-sans-serif;
+      font-size: 0.9rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      color: $charcoal-light !important;
+      padding: 0.5rem 1rem;
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: $forest !important;
+      }
+      
+      &.active {
+        color: $forest !important;
+      }
+    }
+  }
+}
+
+/* Page title area */
+.quarto-title {
+  margin-bottom: 2rem;
+  
+  h1.title {
+    font-family: $headings-font-family;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: $charcoal;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Section headers in content */
+#quarto-content {
+  h2 {
+    font-family: $headings-font-family;
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: $charcoal;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid $rule-line;
+  }
+  
+  h3 {
+    font-family: $headings-font-family;
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: $charcoal;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  p {
+    line-height: 1.7;
+    margin-bottom: 1rem;
+  }
+  
+  a {
+    color: $forest;
+    text-decoration: none;
+    
+    &:hover {
+      color: $forest-light;
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Footer styling */
 .nav-footer {
-    align-items: flex-start;  // Align all flex items to the top
-    flex-wrap: wrap;
-    border: 0 !important;
-    min-height: 3em;
-    //font-family: $footer-font-family;
+  background-color: $paper-warm;
+  border-top: 1px solid $rule-line;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  border: 0 !important;
+  min-height: 3em;
 
-    a {
-        color: $primary;
+  a {
+    color: $forest;
+    
+    &:hover {
+      color: $forest-light;
+    }
+  }
+
+  .faux-block {
+    display: block;
+    padding-bottom: 0.4em;
+  }
+
+  .nav-footer-center {
+    text-align: center;
+    position: inherit;
+    margin-top: 0;
+
+    @media (max-width: map-get($grid-breakpoints, md)) {
+      margin-top: 0.5em;
+      margin-bottom: 1.5em;
+    }
+  }
+
+  .nav-footer-left,
+  .nav-footer-right,
+  .nav-footer-center {
+    text-align: center;
+    width: 100%;
+    min-height: 2em;
+  }
+
+  @media (min-width: map-get($grid-breakpoints, md)) {
+    .nav-footer-left {
+      text-align: left;
     }
 
-    .faux-block {
-        display: block;
-        padding-bottom: 0.4em;
+    .nav-footer-right {
+      text-align: right;
     }
 
-    // In the default Quarto template, .nav-footer-center has position: absolute 
-    // turned on, which makes the div not be a flex item
-    // This changes that so that it *is* a flex item
-    .nav-footer-center {
-        text-align: center;
-        position: inherit;
-        margin-top: 0;
-
-        @media (max-width: map-get($grid-breakpoints, md)) {
-            margin-top: 0.5em;
-            margin-bottom: 1.5em;
-        }
-    }
-
-    // When the screen is medium or smaller, make each footer chunk be 100% width 
-    // and centered; otherwise make them be 33% width and left/right/centerd
     .nav-footer-left,
     .nav-footer-right,
     .nav-footer-center {
-        text-align: center;
-        width: 100%;
-        min-height: 2em;
+      flex: 1 1 33%;
     }
+  }
+}
 
-    @media (min-width: map-get($grid-breakpoints, md)) {
-        .nav-footer-left {
-            text-align: left;
-        }
-
-        .nav-footer-right {
-            text-align: right;
-        }
-
-        .nav-footer-left,
-        .nav-footer-right,
-        .nav-footer-center {
-            flex: 1 1 33%;
-        }
+/* TOC styling */
+.sidebar nav[role=doc-toc] {
+  ul {
+    li a {
+      color: $charcoal-light;
+      
+      &:hover {
+        color: $forest;
+      }
+      
+      &.active {
+        color: $forest;
+        border-left-color: $forest;
+      }
     }
+  }
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: $forest;
+  border-color: $forest;
+  
+  &:hover {
+    background-color: $forest-light;
+    border-color: $forest-light;
+  }
+}
+
+/* Card-like sections */
+.callout {
+  border-left-color: $forest;
+}
+
+/* About page specific */
+#about-block {
+  a {
+    color: $forest;
+    
+    &:hover {
+      color: $forest-light;
+    }
+  }
+}
+
+/* Social icons in about section */
+.about-links {
+  a {
+    color: $charcoal;
+    transition: color 0.2s ease;
+    
+    &:hover {
+      color: $forest;
+    }
+  }
+}
+
+/* Search styling */
+.aa-DetachedSearchButton {
+  border-color: $rule-line;
+  
+  &:hover {
+    border-color: $forest;
+  }
+}
+
+/* Blockquote styling */
+blockquote {
+  border-left: 3px solid $forest;
+  padding-left: 1rem;
+  color: $charcoal-light;
+  font-style: italic;
+}
+
+/* Image styling */
+img {
+  border-radius: 2px;
 }

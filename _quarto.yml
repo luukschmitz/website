@@ -19,7 +19,7 @@ website:
         href: cv/index.qmd
       - text: "Blog"
         href: blog/index.qmd
-      - text: "presentations"
+      - text: "Presentations"
         href: presentations/index.html
 
 
