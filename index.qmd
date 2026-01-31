@@ -5,16 +5,12 @@ about:
   image: ls.jpg
   links:
     - icon: mortarboard
-      text: Google Scholar
       href: https://scholar.google.nl/citations?user=oFDW6tIAAAAJ
     - icon: butterfly
-      text: Bluesky
       href: https://bsky.app/profile/luukschmitz.bsky.social
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/luuk-schmitz-7a373121/
     - icon: envelope
-      text: Email
       href: mailto:luuk.schmitz@mpifg.de
 ---
 

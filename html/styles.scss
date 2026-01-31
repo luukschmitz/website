@@ -318,30 +318,37 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Social icons in about section - ensure visibility */
+/* Social icons in about section - icon-only display */
 .about-links {
   display: flex !important;
   justify-content: center;
-  gap: 1rem;
+  gap: 1.25rem;
   margin-top: 1rem;
   margin-bottom: 1.5rem;
   
-  a {
+  .about-link {
     color: $charcoal !important;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     transition: color 0.2s ease;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none !important;
+    border: none !important;
+    background: none !important;
+    padding: 0.25rem;
     
     &:hover {
       color: $forest !important;
     }
     
-    svg {
-      width: 1.25em;
-      height: 1.25em;
-      fill: currentColor;
+    /* Hide text labels, show only icons */
+    .about-link-text {
+      display: none !important;
+    }
+    
+    i.bi {
+      font-size: 1.4rem;
     }
   }
 }
@@ -350,6 +357,20 @@ h1, h2, h3, h4, h5, h6 {
 .about-entity .about-links {
   display: flex !important;
   visibility: visible !important;
+}
+
+/* Jolla template specific - ensure name heading is visible */
+.quarto-about-jolla {
+  .about-entity {
+    .about-link {
+      border: none !important;
+      padding: 0.5rem;
+      
+      .about-link-text {
+        display: none !important;
+      }
+    }
+  }
 }
 
 /* Search styling */
@@ -378,15 +399,32 @@ img {
    PROJECTS PAGE STYLES
    ============================================ */
 
-/* Section label above title */
-.section-label {
+/* Subtitle styled as section label ABOVE title */
+.quarto-title .subtitle,
+.quarto-title-block .subtitle {
   font-family: $font-family-sans-serif;
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: $forest;
+  color: $forest !important;
   margin-bottom: 0.5rem;
+  order: -1; /* Move above title */
+}
+
+/* Reorder title block elements */
+.quarto-title-block .quarto-title {
+  display: flex;
+  flex-direction: column;
+}
+
+.quarto-title-block .quarto-title .subtitle {
+  order: -1;
+  margin-bottom: 0.25rem;
+}
+
+.quarto-title-block .quarto-title h1.title {
+  order: 0;
 }
 
 /* Green underline below title */

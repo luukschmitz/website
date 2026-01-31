@@ -1,9 +1,9 @@
 ---
 title: Projects
+subtitle: Research Portfolio
+title-block-banner: false
 toc: false
 ---
-
-<p class="section-label">Research Portfolio</p>
 
 <div class="title-underline"></div>
 
