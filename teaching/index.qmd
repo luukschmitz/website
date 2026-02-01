@@ -7,14 +7,14 @@ toc: false
 
 <div class="title-underline"></div>
 
-<p class="projects-intro">I teach courses on the political economy of European integration and natural language processing. You can find the syllabi on this page.</p>
+<p class="projects-intro">I teach courses on the political economy of European integration, the IPE of multinational corporations, and natural language processing. You can find the syllabi on this page.</p>
 
 ::: {.projects-grid}
 
 ::: {.project-card}
 <a href="epe.html" class="project-link">
 <div class="project-image">
-![](security.jpg)
+![](/teaching/eu.png)
 </div>
 <div class="project-content">
 <span class="project-category">Geoeconomic Competition</span>
