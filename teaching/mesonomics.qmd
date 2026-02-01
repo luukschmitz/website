@@ -27,7 +27,7 @@ The more widespread availability of firm-level data and the computational method
 
 ::: {.g-col-12 .g-col-lg-5}
 
-![](/projects/vw.png)
+![](/img/mesonomics.jpg)
 
 ::: {.research-focus}
 **Research Focus**

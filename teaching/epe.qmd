@@ -19,7 +19,7 @@ After several decades of intensifying globalization, the world has entered a new
 
 ## Methodology
 
-The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=20.014) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time.
+The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=14.101) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time.
 
 ## Research Goals
 
@@ -29,7 +29,7 @@ In a first step, I aim to map theoretically and empirically what such an economi
 
 ::: {.g-col-12 .g-col-lg-5}
 
-![](/projects/security.jpg)
+![](/img/economic-security.jpg)
 
 ::: {.research-focus}
 **Research Focus**

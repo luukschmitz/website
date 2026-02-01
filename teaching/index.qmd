@@ -1,0 +1,59 @@
+---
+title: Teaching
+subtitle: Course portfolio
+title-block-banner: false
+toc: false
+---
+
+<div class="title-underline"></div>
+
+<p class="projects-intro">I teach courses on the political economy of European integration and natural language processing. You can find the syllabi on this page.</p>
+
+::: {.projects-grid}
+
+::: {.project-card}
+<a href="epe.html" class="project-link">
+<div class="project-image">
+![](security.jpg)
+</div>
+<div class="project-content">
+<span class="project-category">Geoeconomic Competition</span>
+<h3>European Political Economy</h3>
+<div class="project-divider"></div>
+<p>Analyzing how security imperatives reshape economic policy and corporate decision-making in an era of geoeconomic fragmentation.</p>
+<span class="read-more">Read More →</span>
+</div>
+</a>
+:::
+
+::: {.project-card}
+<a href="geoeconomic-predicament.html" class="project-link">
+<div class="project-image">
+![](e.jpg)
+</div>
+<div class="project-content">
+<span class="project-category">Industrial Policy</span>
+<h3>Europe's Geoeconomic Predicament</h3>
+<div class="project-divider"></div>
+<p>Documenting the EU's surprising turn to active industrial policy and the challenge to market-based governance regimes.</p>
+<span class="read-more">Read More →</span>
+</div>
+</a>
+:::
+
+::: {.project-card}
+<a href="mesonomics.html" class="project-link">
+<div class="project-image">
+![](vw.png)
+</div>
+<div class="project-content">
+<span class="project-category">Methodology</span>
+<h3>Mesonomics: Rescaling Political Economy</h3>
+<div class="project-divider"></div>
+<p>Bridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.</p>
+<span class="read-more">Read More →</span>
+</div>
+</a>
+:::
+
+:::

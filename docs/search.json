@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Luuk Schmitz",
     "section": "",
-    "text": "Luuk Schmitz\nHello! I am a senior researcher at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. I hold a PhD in political and social science from the European University Institute with a dissertation on European industrial policy.\nMy research deals with the political economy of geoeconomics. I am interested in how multinational firms operate under geoeconomic tensions, how geoeconomics reshape trade and investment patterns, and how this affects decarbonization and the green transition. Geographically, I focus mostly on the European Union. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.\nYou can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests."
+    "text": "Hello! I am a senior researcher at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. I hold a PhD in political and social science from the European University Institute with a dissertation on European industrial policy.\nMy research deals with the political economy of geoeconomics. I am interested in how multinational firms operate under geoeconomic tensions, how geoeconomics reshape trade and investment patterns, and how this affects decarbonization and the green transition. Geographically, I focus mostly on the European Union. Additionally, I have an interest in computational social science, and how we can bridge the gap between linguistics, computer science, and political science.\nYou can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests."
   },
   {
     "objectID": "projects/economic-security.html",
@@ -116,7 +116,7 @@
     "href": "projects/economic-security.html#methodology",
     "title": "Changing the Calculus on Economic Security",
     "section": "Methodology",
-    "text": "Methodology\nThe project goes beyond the usual ‘supply-side’ bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=14.101) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time."
+    "text": "Methodology\nThe project goes beyond the usual ‘supply-side’ bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=20.014) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time."
   },
   {
     "objectID": "projects/economic-security.html#research-goals",
@@ -152,5 +152,12 @@
     "title": "Mesonomics: Rescaling Political Economy",
     "section": "Current Applications",
     "text": "Current Applications\nThe more widespread availability of firm-level data and the computational methods to analyze them now allows political economists to get more serious about addressing these questions. In my current work, firm-level data plays a major role. Apart from the economic calculus project outlined above, I use data on the automobile industry to map the geographical dispersion and organization of car makers’ supply chains."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach courses on the political economy of European integration and natural language processing. You can find the syllabi on this page.\n\n\n\n\n\n\n\n\nGeoeconomic Competition\n\nEuropean Political Economy\n\n\n\n\n\nAnalyzing how security imperatives reshape economic policy and corporate decision-making in an era of geoeconomic fragmentation.\n\nRead More →\n\n\n\n\n\n\n\n\n\nIndustrial Policy\n\nEurope’s Geoeconomic Predicament\n\n\n\n\n\nDocumenting the EU’s surprising turn to active industrial policy and the challenge to market-based governance regimes.\n\nRead More →\n\n\n\n\n\n\n\n\n\nMethodology\n\nMesonomics: Rescaling Political Economy\n\n\n\n\n\nBridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.\n\nRead More →"
   }
 ]
