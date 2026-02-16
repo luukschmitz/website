@@ -35,7 +35,7 @@ toc: false
 <span class="project-category">Industrial Policy</span>
 <h3>Europe's Geoeconomic Predicament</h3>
 <div class="project-divider"></div>
-<p>Documenting the EU's surprising turn to active industrial policy and the challenge to market-based governance regimes.</p>
+<p>Documenting the EU's turn to active industrial policy and the challenge to market-based governance regimes.</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -51,6 +51,21 @@ toc: false
 <h3>Mesonomics: Rescaling Political Economy</h3>
 <div class="project-divider"></div>
 <p>Bridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.</p>
+<span class="read-more">Read More →</span>
+</div>
+</a>
+:::
+
+::: {.project-card}
+<a href="bookproject.html" class="project-link">
+<div class="project-image">
+![](stack.jpg)
+</div>
+<div class="project-content">
+<span class="project-category">Book project</span>
+<h3>Stacked Interdependence</h3>
+<div class="project-divider"></div>
+<p>The accidental geopolitics of corporate planning routines.</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>

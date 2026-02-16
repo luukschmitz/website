@@ -1,0 +1,42 @@
+---
+title: "Stacking Order"
+subtitle: "Technology and the Remaking of Global Interdependence"
+toc: true
+toc-title: "On this page"
+---
+
+<a href="index.html" class="back-link">← Back to Projects</a>
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-lg-7}
+
+## From Flows to Stacks
+
+What does global interdependence look like in a multipolar world? For decades, globalization has reshaped political rule, economic arrangements, social relationships, and cultural forms. A political order backed by American centrality in commerce, finance, technology, and defense fostered an economic order where markets opened, supply chains sprawled, and governance technocratized. Yet below this surface of continuity, the architecture of global interdependencies is being remade in a process that promises to reshape geopolitical alignments, the pace of the green transition, and political conflict over who controls the inputs in the economy. At its root lies a material shift: the complexity and capital intensity of contemporary production (AI infrastructure, clean energy systems, semiconductor fabs) has outgrown the coordination capacity of price-driven markets. Firms responded by vertically integrating supply chains, locking in standards, and building planning infrastructures that bundle physical resources, technical protocols, and industrial ecosystems into cohesive architectures of control. These corporate planning routines have now turned into grand strategy. The grammar of geopolitical conflict revolves around which of these architectures their economies are wired into. This book argues that the relevant political question in the 2020s isn't market vs. state but rather which forms of non-market coordination prevail, who controls them, and whether democratic societies can govern them.
+
+:::
+
+::: {.g-col-12 .g-col-lg-5}
+
+![](/projects/si.png)
+
+::: {.research-focus}
+**Research Focus**
+
+-  Rethinking interdependence in a multipolar world.
+
+-  Tracing the architecture of changing supply chains.
+
+-  Understanding non-market coordination and economic transformation
+:::
+
+::: {.related-work}
+**See More**
+
+Click [here](/presentations/stacking_order.html) for a slide deck presenting the book's arguments.
+:::
+
+:::
+
+::::

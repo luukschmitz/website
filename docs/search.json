@@ -74,7 +74,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Exploring the intersection of political economy, geoeconomic competition, and industrial policy in an era of global transformation.\n\n\n\n\n\n\n\n\nGeoeconomic Competition\n\nChanging the Calculus on Economic Security\n\n\n\n\n\nAnalyzing how security imperatives reshape economic policy and corporate decision-making in an era of geoeconomic fragmentation.\n\nRead More →\n\n\n\n\n\n\n\n\n\nIndustrial Policy\n\nEurope’s Geoeconomic Predicament\n\n\n\n\n\nDocumenting the EU’s surprising turn to active industrial policy and the challenge to market-based governance regimes.\n\nRead More →\n\n\n\n\n\n\n\n\n\nMethodology\n\nMesonomics: Rescaling Political Economy\n\n\n\n\n\nBridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.\n\nRead More →"
+    "text": "Exploring the intersection of political economy, geoeconomic competition, and industrial policy in an era of global transformation.\n\n\n\n\n\n\n\n\nGeoeconomic Competition\n\nChanging the Calculus on Economic Security\n\n\n\n\n\nAnalyzing how security imperatives reshape economic policy and corporate decision-making in an era of geoeconomic fragmentation.\n\nRead More →\n\n\n\n\n\n\n\n\n\nIndustrial Policy\n\nEurope’s Geoeconomic Predicament\n\n\n\n\n\nDocumenting the EU’s turn to active industrial policy and the challenge to market-based governance regimes.\n\nRead More →\n\n\n\n\n\n\n\n\n\nMethodology\n\nMesonomics: Rescaling Political Economy\n\n\n\n\n\nBridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.\n\nRead More →\n\n\n\n\n\n\n\n\n\nBook project\n\nStacked Interdependence\n\n\n\n\n\nThe accidental geopolitics of corporate planning routines.\n\nRead More →"
   },
   {
     "objectID": "cv/index.html",
@@ -201,5 +201,33 @@
     "title": "European Political Economy",
     "section": "Syllabus",
     "text": "Syllabus\nYou can download the syllabus here."
+  },
+  {
+    "objectID": "projects/bookproject.html",
+    "href": "projects/bookproject.html",
+    "title": "Stacking Order",
+    "section": "",
+    "text": "← Back to Projects"
+  },
+  {
+    "objectID": "projects/bookproject.html#from-flows-to-stacks",
+    "href": "projects/bookproject.html#from-flows-to-stacks",
+    "title": "Stacking Order",
+    "section": "From Flows to Stacks",
+    "text": "From Flows to Stacks\nWhat does global interdependence look like in a multipolar world? For decades, globalization has reshaped political rule, economic arrangements, social relationships, and cultural forms. A political order backed by American centrality in commerce, finance, technology, and defense fostered an economic order where markets opened, supply chains sprawled, and governance technocratized. Yet below this surface of continuity, the architecture of global interdependencies is being remade in a process that promises to reshape geopolitical alignments, the pace of the green transition, and political conflict over who controls the inputs in the economy. At its root lies a material shift: the complexity and capital intensity of contemporary production (AI infrastructure, clean energy systems, semiconductor fabs) has outgrown the coordination capacity of price-driven markets. Firms responded by vertically integrating supply chains, locking in standards, and building planning infrastructures that bundle physical resources, technical protocols, and industrial ecosystems into cohesive architectures of control. These corporate planning routines have now turned into grand strategy. The grammar of geopolitical conflict revolves around which of these architectures their economies are wired into. This book argues that the relevant political question in the 2020s isn’t market vs. state but rather which forms of non-market coordination prevail, who controls them, and whether democratic societies can govern them."
+  },
+  {
+    "objectID": "projects/bookproject.html#the-need-for-meso-level-analysis",
+    "href": "projects/bookproject.html#the-need-for-meso-level-analysis",
+    "title": "Stacking Order",
+    "section": "The Need for Meso-Level Analysis",
+    "text": "The Need for Meso-Level Analysis\nWith the advent of economic statecraft and the weaponization of markets for geopolitical purposes comes an urgent need to understand how states and firms interact across markets, supply chains, and financial networks. The discovery of such meso-level processes has been labeled mesonomics."
+  },
+  {
+    "objectID": "projects/bookproject.html#current-applications",
+    "href": "projects/bookproject.html#current-applications",
+    "title": "Stacking Order",
+    "section": "Current Applications",
+    "text": "Current Applications\nThe more widespread availability of firm-level data and the computational methods to analyze them now allows political economists to get more serious about addressing these questions. In my current work, firm-level data plays a major role. Apart from the economic calculus project outlined above, I use data on the automobile industry to map the geographical dispersion and organization of car makers’ supply chains."
   }
 ]
