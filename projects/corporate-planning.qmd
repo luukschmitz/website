@@ -1,0 +1,34 @@
+---
+title: "Corporate Planning and Grand Strategy"
+subtitle: "After the Modular Firm"
+---
+
+<a href="index.html" class="back-link">← Back to Projects</a>
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-lg-7}
+
+For thirty years, the leading firm owned little and orchestrated much, using the market to discipline its suppliers. The technologies of the twin transition do not come apart so neatly. A battery, a chassis, and its software have to be designed together; an AI data center works as one machine. Firms therefore bring production back in-house, as BYD has, or lock in their futures through long contracts, as the hyperscalers have with memory and power. Galbraith's planning system is back, and Hirschman tells us why: every bottleneck calls forth a plan.
+
+Yet a plan also allocates, and the currency of power becomes entry into it. Those inside receive certainty, while consoles and MRI scanners queue for memory and households for the grid. Who holds the pen differs, too: in the United States, firms tend to move first and enlist the state and finance along the way, whereas in China the state sets the direction and firms carry it abroad. With four American firms now committing some two percent of US GDP a year, that is a political question of the first order.
+
+:::
+
+::: {.g-col-12 .g-col-lg-5}
+
+![](/projects/frontier_network.png)
+
+::: {.related-work}
+**Papers**
+
+*Planning the Tech-Industrial Complex* (with L. Dagorne). Under review. Shows how long-term contracts establish priority claims on future capacity, and why Washington underwrites them.
+
+*Vertical Integration in the Electric Vehicle Revolution* (with P. Gerbaudo and G. Anzolin). Manuscript available upon request. Compares BYD and Tesla with Toyota and Volkswagen.
+
+*What Is Different About Chinese Automotive Capitalism?* (with P. Polyak). Paper in progress. Shows how integration, demand pressures, and geopolitical steering combine to carry industrial stacks abroad.
+:::
+
+:::
+
+::::

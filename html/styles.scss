@@ -697,6 +697,11 @@ img {
     line-height: 1.6;
     margin: 0;
   }
+
+  /* Space between entries in a paper list (the first paragraph is the label) */
+  p + p + p {
+    margin-top: 1rem;
+  }
 }
 
 /* Table of contents styling for "On this page" */

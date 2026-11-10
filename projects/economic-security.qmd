@@ -1,8 +1,6 @@
 ---
 title: "Changing the Calculus on Economic Security"
-subtitle: "Geoeconomic Competition"
-toc: true
-toc-title: "On this page"
+subtitle: "Markets and Security"
 ---
 
 <a href="index.html" class="back-link">← Back to Projects</a>
@@ -11,36 +9,22 @@ toc-title: "On this page"
 
 ::: {.g-col-12 .g-col-lg-7}
 
-## Core Research Question
+Tariffs come and go like weather; geopolitics has become the climate. Since 2022 it has settled into what firms tell their investors, and it has stayed there long after the instruments that first brought it up have faded. This project asks what firms do with that new climate. Some bear it as a cost and others pocket a windfall. A third group claims a calling, presenting its capacity as indispensable to projects of resilience, sovereignty, and security. States answered such claims early, whereas investors paid for them only once the United States showed, in April 2025, that it would reorder markets around geopolitical priorities.
 
-The core intuition behind the project is to place (real or imagined) security imperatives center stage. The aim of this project is to find out how such imperatives increasingly shape economic policy interventions, as well as corporate decision-making. We currently lack the theoretical and methodological toolkit to tackle such questions.
-
-After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic fragmentation. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?
-
-## Methodology
-
-The project goes beyond the usual 'supply-side' bias in the literature, which has so far mostly analyzed policy documents and individual companies. I have collected an original data set of corporate earnings calls (n=20.014) that involves more than 4500 companies and spans eight years (starting in 2016). The large number of firms allows for a large-scale and nuanced analysis of how geoeconomic competition affects firms and sectors across time.
-
-## Research Goals
-
-In a first step, I aim to map theoretically and empirically what such an economic 'calculus' is, and how it is changing. In a follow-up paper, I want to analyze who are the winners and losers of geoeconomic competition.
+When the Pentagon took a stake that would make it MP Materials' largest shareholder, guaranteed a price for its rare earths, and committed to buy every magnet from its new plant, there was still a buyer, a seller, and a price. Yet is that a market? Corporate power, on this view, does not simply rise or fall. Rather, it moves toward firms that can make themselves part of the project, on terms neither side fully controls.
 
 :::
 
 ::: {.g-col-12 .g-col-lg-5}
 
-![](/projects/security.jpg)
-
-::: {.research-focus}
-**Research Focus**
-
-This project examines how security considerations are reshaping global economic relationships and corporate strategies.
-:::
+![](/projects/claims_pricing.png)
 
 ::: {.related-work}
-**Related Work**
+**Papers**
 
-See other projects exploring political economy and geoeconomic dynamics.
+*The Geopolitical Construction of Markets.* Manuscript available upon request. Traces how claims of necessity become durable participation in state projects.
+
+*[Hierarchies of Adaptation](https://osf.io/preprints/socarxiv/gwuce_v1).* OSF Preprint, 2026. An earlier version of the argument.
 :::
 
 :::

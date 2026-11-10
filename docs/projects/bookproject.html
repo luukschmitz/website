@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Stacking Order – Luuk Schmitz</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0d5addcadeba6cc6d7754e6da78aa8f8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b38cb39fd13e6d9accb93fcfc2fa40be.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -117,9 +120,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -145,23 +146,15 @@ ul.task-list li input[type="checkbox"] {
 
 <p><a href="index.html" class="back-link">← Back to Projects</a></p>
 <div class="grid">
-<section id="from-flows-to-stacks" class="level2 g-col-12 g-col-lg-7">
-<h2 class="anchored" data-anchor-id="from-flows-to-stacks">From Flows to Stacks</h2>
-<p>What does global interdependence look like in a multipolar world? For decades, globalization has reshaped political rule, economic arrangements, social relationships, and cultural forms. A political order backed by American centrality in commerce, finance, technology, and defense fostered an economic order where markets opened, supply chains sprawled, and governance technocratized. The breakdown of this order coincides with a time of profound economic transformation. This book argues that the origin of this shift lies not in state strategy, but in changing corporate planning routines: the complexity and capital intensity of contemporary production (AI infrastructure, clean energy systems, semiconductor fabs) has outgrown the coordination capacity of price-driven markets. These firms responded by vertically integrating supply chains, locking in standards, and building planning infrastructures that bundle physical resources, technical protocols, and industrial ecosystems into cohesive architectures of control. The walled gardens this creates serve equally well to increase profits as to enclose geopolitical space. By consequence, the grammar of geopolitical conflict revolves around which of these architectures their economies are wired into. Therefore, this book argues that the relevant political question in the 2020s isn’t market vs.&nbsp;state but rather which forms of non-market coordination prevail, who controls them, and whether democratic societies can govern them.</p>
-</section>
-<div class="g-col-12 g-col-lg-5">
-<p><img src="../projects/si.png" class="img-fluid"></p>
-<div class="research-focus">
-<p><strong>Research Focus</strong></p>
-<ul>
-<li><p>Rethinking interdependence in a multipolar world.</p></li>
-<li><p>Tracing the architecture of changing supply chains.</p></li>
-<li><p>Understanding non-market coordination and economic transformation</p></li>
-</ul>
+<div class="g-col-12 g-col-lg-7">
+<p>If Cold War I was about clashing modernities, Cold War II is about clashing techno-economic regimes. This book argues that the origins of the geoeconomic turn lie less in state strategy than in changing corporate planning routines. The complexity, capital intensity, and input scarcity of contemporary production, from AI infrastructure to clean energy systems and semiconductor fabs, have outgrown what price-driven markets can coordinate. Firms have responded by bundling physical resources, technical protocols, and industrial ecosystems into walled gardens that serve equally well to capture rents as to enclose geopolitical space.</p>
+<p>The book unfolds in three acts: authoring the stack through long-term planning, expanding it abroad, and controlling the terms on which its capabilities spread. Where Thomas Hughes showed how technological systems acquire momentum through time, stacked interdependence shows how geopolitical actors now engineer momentum through space. The central political question of the 2020s is therefore not market versus state, but which forms of non-market coordination prevail, who controls them, and whether democratic societies can govern them.</p>
 </div>
+<div class="g-col-12 g-col-lg-5">
+<p><img src="../projects/stack.jpg" class="img-fluid"></p>
 <div class="related-work">
 <p><strong>See More</strong></p>
-<p>Click <a href="../presentations/stacking_order.html">here</a> for a slide deck presenting the book’s arguments.</p>
+<p>Book manuscript in preparation. Click <a href="../presentations/stacking_order.html">here</a> for a slide deck presenting the book’s arguments.</p>
 </div>
 </div>
 </div>
@@ -220,13 +213,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
