@@ -17,7 +17,9 @@ This course offers students an introduction to the subject of International Poli
 
 ::: {.g-col-12 .g-col-lg-5}
 
-![](/projects/e.jpg)
+![](/teaching/cable_landing.jpg)
+
+<p class="small text-muted">Cable landing point at Landeyjarsandur, Iceland. Photo by <a href="https://commons.wikimedia.org/wiki/File:Danice_Greenland_Connect_Landeyjarsandur_Iceland.JPG">Philipp Weigell</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.</p>
 
 :::
 

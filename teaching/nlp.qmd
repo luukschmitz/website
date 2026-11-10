@@ -19,7 +19,7 @@ The second part covers the innovations that have powered the current boom in LLM
 
 ::: {.g-col-12 .g-col-lg-5}
 
-![](/projects/sa.png)
+![](/teaching/transformer_wordle.png)
 
 :::
 

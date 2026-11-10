@@ -12,6 +12,36 @@ toc: false
 ::: {.projects-grid}
 
 ::: {.project-card}
+<a href="gpe.html" class="project-link">
+<div class="project-image">
+![](/teaching/cable_landing.jpg)
+</div>
+<div class="project-content">
+<span class="project-category">Vrije Universiteit Amsterdam</span>
+<h3>Global Political Economy</h3>
+<div class="project-divider"></div>
+<p>2026–27, Undergraduate</p>
+<span class="read-more">Read More →</span>
+</div>
+</a>
+:::
+
+::: {.project-card}
+<a href="sigpe.html" class="project-link">
+<div class="project-image">
+![](/teaching/byd_carrier.jpg)
+</div>
+<div class="project-content">
+<span class="project-category">Vrije Universiteit Amsterdam</span>
+<h3>Selected Issues: Global Political Economy and Geopolitics</h3>
+<div class="project-divider"></div>
+<p>2026–27, Graduate</p>
+<span class="read-more">Read More →</span>
+</div>
+</a>
+:::
+
+::: {.project-card}
 <a href="epe.html" class="project-link">
 <div class="project-image">
 ![](/teaching/eu.png)
@@ -27,39 +57,9 @@ toc: false
 :::
 
 ::: {.project-card}
-<a href="gpe.html" class="project-link">
-<div class="project-image">
-![](/projects/e.jpg)
-</div>
-<div class="project-content">
-<span class="project-category">Vrije Universiteit Amsterdam</span>
-<h3>Global Political Economy</h3>
-<div class="project-divider"></div>
-<p>2026–27, Undergraduate</p>
-<span class="read-more">Read More →</span>
-</div>
-</a>
-:::
-
-::: {.project-card}
-<a href="sigpe.html" class="project-link">
-<div class="project-image">
-![](/projects/security.jpg)
-</div>
-<div class="project-content">
-<span class="project-category">Vrije Universiteit Amsterdam</span>
-<h3>Selected Issues: Global Political Economy and Geopolitics</h3>
-<div class="project-divider"></div>
-<p>2026–27, Graduate</p>
-<span class="read-more">Read More →</span>
-</div>
-</a>
-:::
-
-::: {.project-card}
 <a href="nlp.html" class="project-link">
 <div class="project-image">
-![](/projects/sa.png)
+![](/teaching/transformer_wordle.png)
 </div>
 <div class="project-content">
 <span class="project-category">Max Planck Institute for the Study of Societies</span>
@@ -72,3 +72,5 @@ toc: false
 :::
 
 :::
+
+<p class="small text-muted mt-4">Global Political Economy image: cable landing point at Landeyjarsandur, Iceland. Photo by <a href="https://commons.wikimedia.org/wiki/File:Danice_Greenland_Connect_Landeyjarsandur_Iceland.JPG">Philipp Weigell</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.</p>
