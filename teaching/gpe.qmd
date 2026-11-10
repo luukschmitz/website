@@ -17,9 +17,9 @@ This course offers students an introduction to the subject of International Poli
 
 ::: {.g-col-12 .g-col-lg-5}
 
-![](/teaching/cable_landing.jpg)
+![](/teaching/cable_landing_sites.png)
 
-<p class="small text-muted">Cable landing point at Landeyjarsandur, Iceland. Photo by <a href="https://commons.wikimedia.org/wiki/File:Danice_Greenland_Connect_Landeyjarsandur_Iceland.JPG">Philipp Weigell</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.</p>
+<p class="small text-muted">Submarine cables and landing sites, adapted from TeleGeography's <a href="https://www.submarinecablemap.com/">Submarine Cable Map</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Land: Natural Earth.</p>
 
 :::
 

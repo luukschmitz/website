@@ -18,15 +18,17 @@ The goal of this course is to help you clear the hump that makes it hard to appr
 
 The course is structured in two parts spanning a total of ten substantive lectures. The first half establishes various theory-oriented foundations, from the creation of the European single market to the E(M)U’s near-collapse during the Eurozone crisis, and subsequent reforms. We will use these insights to deepen the discussion of the five current issues in European Political Economy. These are both ongoing issues and hotly debated subjects among academics.
 
-## Syllabus
-
-You can download the syllabus [here](EPE_Manual_2425.pdf).
-
 :::
 
 ::: {.g-col-12 .g-col-lg-5}
 
 ![](/teaching/eu.png)
+
+::: {.related-work}
+**Syllabus**
+
+You can download the syllabus [here](EPE_Manual_2425.pdf).
+:::
 
 :::
 

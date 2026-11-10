@@ -1,6 +1,6 @@
 ---
 title: Teaching
-subtitle: Course portfolio
+#subtitle: Course portfolio
 title-block-banner: false
 toc: false
 ---
@@ -14,7 +14,7 @@ toc: false
 ::: {.project-card}
 <a href="gpe.html" class="project-link">
 <div class="project-image">
-![](/teaching/cable_landing.jpg)
+![](/teaching/cable_landing_sites.png)
 </div>
 <div class="project-content">
 <span class="project-category">Vrije Universiteit Amsterdam</span>
@@ -73,4 +73,4 @@ toc: false
 
 :::
 
-<p class="small text-muted mt-4">Global Political Economy image: cable landing point at Landeyjarsandur, Iceland. Photo by <a href="https://commons.wikimedia.org/wiki/File:Danice_Greenland_Connect_Landeyjarsandur_Iceland.JPG">Philipp Weigell</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.</p>
+<p class="small text-muted mt-4">Global Political Economy image: submarine cables and landing sites, adapted from TeleGeography's <a href="https://www.submarinecablemap.com/">Submarine Cable Map</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Land: Natural Earth.</p>
