@@ -1,0 +1,24 @@
+---
+title: "Selected Issues: Global Political Economy and Geopolitics"
+subtitle: "Graduate Course, Vrije Universiteit"
+---
+
+<a href="index.html" class="back-link">← Back to Courses</a>
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-lg-7}
+
+## Course description
+
+This course deals with issues in two major fields of International Relations (IR): global political economy and geopolitics. Traditionally, the field of IR is subdivided in the fields of international security and international (global) political economy. As a consequence of major transformations of the international system (end of the Cold War, globalization, climate change), the boundaries between these subfields have blurred. At the same time, against the background of the rise of China and other emerging powers, a declining American hegemony, intensifying competition over strategic technologies such as artificial intelligence, and a general fraying of the liberal world order and rising interstate rivalries, questions of international security are increasingly framed (by policy-makers and scholars alike) through the use of a concept that until recently was associated with that of a bygone era: that of geopolitics. Geopolitics here is seen as interacting with what is now often called geo-economics. What binds them together is a struggle for power, not just between states but also between rival elites and different societal actors. The resulting constellation combines a deeply globalized global economy, with global production networks, global finance as well as (to an extent) global governance, with a continuing strong role of state power and (constructed) rival national interests. Indeed, this makes for a dynamic and contradictory whole of a world that is at the same time one (one capitalist world market), and divided and fragmented (into 193 states). In this course, we will analyze and discuss how this dialectic plays out by examining several recent major developments and contemporary key issues within global political economy and geopolitics such as the (possible) end of neoliberal globalization and of American hegemony; the rise of China and the new Sino-US rivalry; the Trumpist remaking of American grand strategy; the geoeconomic turn and Europe’s quest for strategic autonomy; the green geopolitics of the energy transition; the geopolitics of artificial intelligence; and the power of (tech) corporations vis-à-vis states and markets. In each case, students are challenged to explore the ways in which the boundaries between economics and politics in a transnational setting are transcended; seemingly "economic" issues are actually highly political in nature and are often the cause of conflict and struggle (sometimes violent) between and within states.
+
+:::
+
+::: {.g-col-12 .g-col-lg-5}
+
+![](/projects/security.jpg)
+
+:::
+
+::::

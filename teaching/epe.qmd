@@ -1,8 +1,7 @@
 ---
 title: "European Political Economy"
-subtitle: "Course overview"
-toc: true
-toc-title: "On this page"
+subtitle: "Undergraduate Course, University of Cologne"
+# Note (November 2026): the "Further resources" sidebar block was removed for now. Reinstate it when revisiting this page.
 ---
 
 <a href="index.html" class="back-link">← Back to Courses</a>
@@ -13,31 +12,21 @@ toc-title: "On this page"
 
 ## Course description
 
-The core intuition behind the project is to place (real or imagined) security imperatives center stage. The aim of this project is to find out how such imperatives increasingly shape economic policy interventions, as well as corporate decision-making. We currently lack the theoretical and methodological toolkit to tackle such questions.
+From the size of cucumbers and tractor seats to fights between member states over fiscal rules and the European Commission’s attempts at taking on big tech firms for antitrust and privacy infringements, the European Union has a large footprint in our everyday life. Due to the EU’s technocratic nature and ‘home’-bias of national news reporting, this footprint often turns invisible. Behind the web of institutions and jargon rests a fascinating political story about shaping and governing global markets. Welcome to the field of European Political Economy!
 
-After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic fragmentation. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?
+The goal of this course is to help you clear the hump that makes it hard to appreciate these qualities about the political economy of the European Union. There are clear upfront costs in understanding how fields such as monetary policy, trade policy, or cohesion policy work. These upfront costs are worth it because so much of what happens in the member states and our everyday life is decided by rules and laws that are negotiated in Brussels. This is neither a question of politics nor economics, given that markets are politically constructed. Hence, we need a political economy perspective to truly appreciate these important qualities of the European Union.
+
+The course is structured in two parts spanning a total of ten substantive lectures. The first half establishes various theory-oriented foundations, from the creation of the European single market to the E(M)U’s near-collapse during the Eurozone crisis, and subsequent reforms. We will use these insights to deepen the discussion of the five current issues in European Political Economy. These are both ongoing issues and hotly debated subjects among academics.
 
 ## Syllabus
 
-You can download the syllabus here.
+You can download the syllabus [here](EPE_Manual_2425.pdf).
 
 :::
 
 ::: {.g-col-12 .g-col-lg-5}
 
 ![](/teaching/eu.png)
-
-::: {.research-focus}
-**Didactive Focus**
-
-This project examines how security considerations are reshaping global economic relationships and corporate strategies.
-:::
-
-::: {.related-work}
-**Further resources**
-
-If you want to keep up to speed on EPE, I highly recommend the following outlets.
-:::
 
 :::
 

@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Teaching – Luuk Schmitz</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0d5addcadeba6cc6d7754e6da78aa8f8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b38cb39fd13e6d9accb93fcfc2fa40be.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -145,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 
 </div>
 <p class="projects-intro">
-I teach courses on the political economy of European integration, the IPE of multinational corporations, and natural language processing. You can find the syllabi on this page.
+I teach courses on the political economy of European integration, the IPE of multinational corporations, and natural language processing.
 </p>
 <div class="projects-grid">
 <div class="project-card">
@@ -154,7 +157,7 @@ I teach courses on the political economy of European integration, the IPE of mul
 <p><img src="../teaching/eu.png" class="img-fluid"></p>
 </div>
 <div class="project-content">
-<span class="project-category">Geoeconomic Competition</span>
+<span class="project-category">University of Cologne</span>
 <h3 class="anchored">
 European Political Economy
 </h3>
@@ -162,51 +165,71 @@ European Political Economy
 
 </div>
 <p>
-Analyzing how security imperatives reshape economic policy and corporate decision-making in an era of geoeconomic fragmentation.
+2024–25, Undergraduate
 </p>
 <p><span class="read-more">Read More →</span></p>
 </div>
 </a><p><a href="epe.html" class="project-link"></a></p>
 </div>
 <div class="project-card">
-<a href="geoeconomic-predicament.html" class="project-link">
+<a href="gpe.html" class="project-link">
 <div class="project-image">
-<p><img src="e.jpg" class="img-fluid"></p>
+<p><img src="../projects/e.jpg" class="img-fluid"></p>
 </div>
 <div class="project-content">
-<span class="project-category">Industrial Policy</span>
+<span class="project-category">Vrije Universiteit Amsterdam</span>
 <h3 class="anchored">
-Europe’s Geoeconomic Predicament
+Global Political Economy
 </h3>
 <div class="project-divider">
 
 </div>
 <p>
-Documenting the EU’s surprising turn to active industrial policy and the challenge to market-based governance regimes.
+2026–27, Undergraduate
 </p>
 <p><span class="read-more">Read More →</span></p>
 </div>
-</a><p><a href="geoeconomic-predicament.html" class="project-link"></a></p>
+</a><p><a href="gpe.html" class="project-link"></a></p>
 </div>
 <div class="project-card">
-<a href="mesonomics.html" class="project-link">
+<a href="sigpe.html" class="project-link">
 <div class="project-image">
-<p><img src="vw.png" class="img-fluid"></p>
+<p><img src="../projects/security.jpg" class="img-fluid"></p>
 </div>
 <div class="project-content">
-<span class="project-category">Methodology</span>
+<span class="project-category">Vrije Universiteit Amsterdam</span>
 <h3 class="anchored">
-Mesonomics: Rescaling Political Economy
+Selected Issues: Global Political Economy and Geopolitics
 </h3>
 <div class="project-divider">
 
 </div>
 <p>
-Bridging the gap between macro-institutional processes and micro-level outcomes through meso-level analysis.
+2026–27, Graduate
 </p>
 <p><span class="read-more">Read More →</span></p>
 </div>
-</a><p><a href="mesonomics.html" class="project-link"></a></p>
+</a><p><a href="sigpe.html" class="project-link"></a></p>
+</div>
+<div class="project-card">
+<a href="nlp.html" class="project-link">
+<div class="project-image">
+<p><img src="../projects/sa.png" class="img-fluid"></p>
+</div>
+<div class="project-content">
+<span class="project-category">Max Planck Institute for the Study of Societies</span>
+<h3 class="anchored">
+Natural Language Processing for Social Scientists
+</h3>
+<div class="project-divider">
+
+</div>
+<p>
+2025–26, Graduate/Postgraduate
+</p>
+<p><span class="read-more">Read More →</span></p>
+</div>
+</a><p><a href="nlp.html" class="project-link"></a></p>
 </div>
 </div>
 
@@ -264,13 +287,14 @@ Bridging the gap between macro-institutional processes and micro-level outcomes 
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

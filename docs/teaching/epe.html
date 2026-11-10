@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>European Political Economy – Luuk Schmitz</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0d5addcadeba6cc6d7754e6da78aa8f8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b38cb39fd13e6d9accb93fcfc2fa40be.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -117,16 +120,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">European Political Economy</h1>
-<p class="subtitle lead">Course overview</p>
+<p class="subtitle lead">Undergraduate Course, University of Cologne</p>
 </div>
 
 
@@ -148,24 +149,17 @@ ul.task-list li input[type="checkbox"] {
 <div class="g-col-12 g-col-lg-7">
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course description</h2>
-<p>The core intuition behind the project is to place (real or imagined) security imperatives center stage. The aim of this project is to find out how such imperatives increasingly shape economic policy interventions, as well as corporate decision-making. We currently lack the theoretical and methodological toolkit to tackle such questions.</p>
-<p>After several decades of intensifying globalization, the world has entered a new phase centered around geoeconomic fragmentation. Terms such as de-globalization, decoupling, and de-risking have entered public discourse and corporate reports, and increasingly shape policy interventions as governments vie to position themselves in a geopoliticizing world. An economic view centered around efficiency and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by states. From an efficiency-based point of view, replicating entire value chains within national borders is a form of economic downgrading. If so, why does this happen?</p>
+<p>From the size of cucumbers and tractor seats to fights between member states over fiscal rules and the European Commission’s attempts at taking on big tech firms for antitrust and privacy infringements, the European Union has a large footprint in our everyday life. Due to the EU’s technocratic nature and ‘home’-bias of national news reporting, this footprint often turns invisible. Behind the web of institutions and jargon rests a fascinating political story about shaping and governing global markets. Welcome to the field of European Political Economy!</p>
+<p>The goal of this course is to help you clear the hump that makes it hard to appreciate these qualities about the political economy of the European Union. There are clear upfront costs in understanding how fields such as monetary policy, trade policy, or cohesion policy work. These upfront costs are worth it because so much of what happens in the member states and our everyday life is decided by rules and laws that are negotiated in Brussels. This is neither a question of politics nor economics, given that markets are politically constructed. Hence, we need a political economy perspective to truly appreciate these important qualities of the European Union.</p>
+<p>The course is structured in two parts spanning a total of ten substantive lectures. The first half establishes various theory-oriented foundations, from the creation of the European single market to the E(M)U’s near-collapse during the Eurozone crisis, and subsequent reforms. We will use these insights to deepen the discussion of the five current issues in European Political Economy. These are both ongoing issues and hotly debated subjects among academics.</p>
 </section>
 <section id="syllabus" class="level2">
 <h2 class="anchored" data-anchor-id="syllabus">Syllabus</h2>
-<p>You can download the syllabus here.</p>
+<p>You can download the syllabus <a href="EPE_Manual_2425.pdf">here</a>.</p>
 </section>
 </div>
 <div class="g-col-12 g-col-lg-5">
 <p><img src="../teaching/eu.png" class="img-fluid"></p>
-<div class="research-focus">
-<p><strong>Didactive Focus</strong></p>
-<p>This project examines how security considerations are reshaping global economic relationships and corporate strategies.</p>
-</div>
-<div class="related-work">
-<p><strong>Further resources</strong></p>
-<p>If you want to keep up to speed on EPE, I highly recommend the following outlets.</p>
-</div>
 </div>
 </div>
 
@@ -223,13 +217,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
