@@ -17,7 +17,7 @@ toc: false
 <span class="project-category">Markets and Security</span>
 <h3>Changing the Calculus on Economic Security</h3>
 <div class="project-divider"></div>
-<p>Necessity has become a corporate asset. How firms claim their way into state projects, and what states give in return.</p>
+<p>How do firms adapt their strategies to competing state projects? And how are markets reconstructed to value beyond efficiency and low lead-times?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -32,7 +32,7 @@ toc: false
 <span class="project-category">How Geoeconomics Becomes Domestic Politics</span>
 <h3>The Politics of Fracture</h3>
 <div class="project-divider"></div>
-<p>The impact of geoeconomics runs along supply chains and splits them. Who ends up fighting whom?</p>
+<p>If geoeconomics turns value chains from coalitional device to a site of contestation, how will it change state-business relations?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -47,7 +47,7 @@ toc: false
 <span class="project-category">After the Modular Firm</span>
 <h3>Corporate Planning and Grand Strategy</h3>
 <div class="project-divider"></div>
-<p>From battery cells to data centers, firms are replacing the market with planning. Whose plan is it, and with whose authority?</p>
+<p>From battery cells to data centers, firms are replacing the market with planning. How does this affect public authority over who controls these technologies?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -62,7 +62,7 @@ toc: false
 <span class="project-category">European Political Economy</span>
 <h3>Europe's Geoeconomic Predicament</h3>
 <div class="project-divider"></div>
-<p>Why a Union built on making markets turned to directing them, and how that works on the ground.</p>
+<p>How does Europe's turn to market-direction play out on the ground?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -77,7 +77,7 @@ toc: false
 <span class="project-category">Methods and Data</span>
 <h3>Mesonomics: Rescaling Political Economy</h3>
 <div class="project-divider"></div>
-<p>Geoeconomics is a problem of resolution: hard to find in the aggregates, unmistakable inside the firm.</p>
+<p>Geoeconomics is also a problem of resolution: difficult to find in the aggregates, but unmistakable in meso and micro-level data.</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -92,7 +92,7 @@ toc: false
 <span class="project-category">Book project</span>
 <h3>Stacking Order</h3>
 <div class="project-divider"></div>
-<p>The political question of the 2020s is not market versus state, but which forms of non-market coordination prevail and who controls them.</p>
+<p>Who governs the post-neoliberal industrial order?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
