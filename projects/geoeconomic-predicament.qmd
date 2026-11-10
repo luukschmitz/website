@@ -9,9 +9,9 @@ subtitle: "European Political Economy"
 
 ::: {.g-col-12 .g-col-lg-7}
 
-Why is industrial policy *en vogue* in the European Union? The fear of falling behind has long driven European integration, but the answer used to be more market creation. Given the EU's market-making impetus, its tilt toward fiscal austerity, and its limits on state aid, the recent turn to directing economic activity is surprising. I have traced how the geopoliticization of trade gave neo-mercantilist and socially oriented actors an opening to challenge Europe's embedded neoliberal compromise, and how the Commission took on a far more active role in the name of technological sovereignty.
+Why is industrial policy *en vogue* in the European Union? The fear of falling behind has long driven European integration, but the answer used to be more market creation. Given the EU's market-creating impetus, its tilt toward fiscal austerity, and its limits on state aid, there are many constraints to how industrial policy becomes part of the EU's standard operating procedures. 
 
-How this works on the ground is another matter. The conditions attached to the EU's flagship subsidies, the Important Projects of Common European Interest, bring perverse outcomes, adverse selection, and workarounds: one chipmaker had to throw away a perfectly good test batch, because selling it would have counted as mass production. Outcomes are decided where firms meet instruments, so my current work turns to the firms themselves. In 2022, Annalena Baerbock warned business elites that they “cannot afford to act following a ‘business first’ mantra alone.” Which firms back European sovereignty in what they do as well as in what they say? Are they patriots, or profiteurs?
+My earlier work has traced the ideational and discursive politics behind key concepts such as open strategic autonomy and technological sovereignty, which have reoriented public policy from trade and industrial to digital policy. More recent work looked at how the EU's flagship industrial policy tool - the important projects of common European interest - actually work on the ground. Ongoing work aims to examine the politics of Europe's geoeconomic turn itself: why are firms not (or not equally) patriotic in how they support Europe's quest for more autonomy over its economy?
 
 :::
 

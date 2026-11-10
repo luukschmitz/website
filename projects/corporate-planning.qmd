@@ -9,9 +9,11 @@ subtitle: "After the Modular Firm"
 
 ::: {.g-col-12 .g-col-lg-7}
 
-For thirty years, the leading firm owned little and orchestrated much, using the market to discipline its suppliers. The technologies of the twin transition do not come apart so neatly. A battery, a chassis, and its software have to be designed together; an AI data center works as one machine. Firms therefore bring production back in-house, as BYD has, or lock in their futures through long contracts, as the hyperscalers have with memory and power. Galbraith's planning system is back, and Hirschman tells us why: every bottleneck calls forth a plan.
+Much like the 1930s and 1980s, geoeconomic conflict and great-power rivalry is synonymous with changing business models and new technologies. This project tries to unpack the green and digital transition as not just a conflict over regulating these technologies, but also about the underlying industrial organization. How amenable are electric cars and datacenters to globe-spanning, decentralized supply chains? The return of vertical integration in firms such as BYD, Amazon, and Meta would suggest that corporate organization itself changes with the technologies it builds its business around.
 
-Yet a plan also allocates, and the currency of power becomes entry into it. Those inside receive certainty, while consoles and MRI scanners queue for memory and households for the grid. Who holds the pen differs, too: in the United States, firms tend to move first and enlist the state and finance along the way, whereas in China the state sets the direction and firms carry it abroad. With four American firms now committing some two percent of US GDP a year, that is a political question of the first order.
+BYD produces an estimated 75 percent of its components in-house, designs its own silicon, and employs twice as many engineers as the Volkswagen group. Meanwhile, in the electronics supply chain, the rapid build-out of datacenters has led firms to enact a dense planning circuit where capacity and investment are synchronized and planned years into the future. In both cases, this dense corporate layer cake provides new levers for state power. Indeed, as these business models internationalize, they also raise questions over who controls the knowledge, equipment, and the capital needed to build a new generation of factories and what OpenAI now refers to as 'compute campuses'. 
+
+
 
 :::
 

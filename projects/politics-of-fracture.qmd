@@ -9,9 +9,11 @@ subtitle: "How Geoeconomics Becomes Domestic Politics"
 
 ::: {.g-col-12 .g-col-lg-7}
 
-In 2018, the electrical-equipment maker Eaton filed more than sixty requests to exempt its imports from American steel tariffs, each for itself alone. Three years later, it lobbied for clean-energy credits through a lobbying firm it shared with a power producer, an offshore-wind developer, and a biofuels company. Our theories of trade politics do not predict this switch, because they were built for liberalization, when value chains were the scaffolding of coalitions.
+In 2018, the electrical-equipment maker Eaton filed more than sixty individual requests to be exempted from American steel tariffs. Three years later, it lobbied for clean-energy credits through a lobbying firm shared with a power producer, an offshore-wind developer, and a biofuels company. Theories of trade politics struggle to explain such political behavior. They see value chains as the scaffolding of coaltions. This project argues that under geoeconomics, they now become sites of fracture or smaller, program-specific coalitions. For firms, geoeconomics ultimately means one of three things: a price or restriction to access partners or markets, an inducement to state-defined behavior, or a shock that changes the firm's market position.
 
-This project traces what becomes of business politics when geoeconomics arrives as restriction, as reward, or as shock. Restrictions offer relief that each firm claims for itself, so steelmakers end up objecting to the exemptions of their own customers. Inducements create programs that must be won and defended together. Shocks without an instrument behind them mobilize no one, because politics needs an address. Distributive conflict thus cuts through sectors rather than between them. Whose interest, then, is "the European car industry's"?
+The project traces what becomes of business politics when geoeconomics arrive through these three channels. Restrictions offer relief that each firm claims for itself. What is more, firms down the chain can object to each others relief. Inducements create programs that must be won and defended together by beneficiaries that are defined by the program's incentives (e.g., IRA tax credits). Shocks such as the Ukraine war or the Strait of Hormuz don't have a political instrument behind them. They create transitory winners and losers (think for instance of shipping firms adding tonne mileage when a route closes down).
+
+The upshot of the project is to see how geoeconomics changes from a buzzword to something that political scientists can analyze: changing the venue (the executive) and the substance (coalitions, firms) of where distributive conflict play out.
 
 :::
 

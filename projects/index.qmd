@@ -17,7 +17,7 @@ toc: false
 <span class="project-category">Markets and Security</span>
 <h3>Changing the Calculus on Economic Security</h3>
 <div class="project-divider"></div>
-<p>How do firms adapt their strategies to competing state projects? And how are markets reconstructed to value beyond efficiency and low lead-times?</p>
+<p>How do firms operate in a world of competing state projects? And how are markets reconstructed to value beyond efficiency?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -32,7 +32,7 @@ toc: false
 <span class="project-category">How Geoeconomics Becomes Domestic Politics</span>
 <h3>The Politics of Fracture</h3>
 <div class="project-divider"></div>
-<p>If geoeconomics turns value chains from coalitional device to a site of contestation, how will it change state-business relations?</p>
+<p>If geoeconomics turns value chains from a coalitional device to a site of contestation, how will it change state-business relations?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
@@ -47,7 +47,7 @@ toc: false
 <span class="project-category">After the Modular Firm</span>
 <h3>Corporate Planning and Grand Strategy</h3>
 <div class="project-divider"></div>
-<p>From battery cells to data centers, firms are replacing the market with planning. How does this affect public authority over who controls these technologies?</p>
+<p>From battery cells to data centers, firms are replacing the market with planning and integration. How does this affect public authority over who controls these technologies?</p>
 <span class="read-more">Read More →</span>
 </div>
 </a>
