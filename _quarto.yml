@@ -18,7 +18,7 @@ website:
       - text: "Publications"
         href: publications/index.qmd
       - text: "CV"
-        href: cv/index.qmd
+        href: cv/cv.pdf
       - text: "Blog"
         href: blog/index.qmd
 
@@ -27,10 +27,7 @@ website:
   search: 
     location: navbar
     type: overlay
-  page-footer: 
-    left: |
-      <span class="faux-block">Image credit: MPIfG/AD</span>
-      
+
 project:
   type: website
   output-dir: docs

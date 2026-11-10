@@ -2,6 +2,19 @@
 pagetitle: "Luuk Schmitz"
 toc: false
 page-layout: custom
+format:
+  html:
+    include-after-body:
+      text: |
+        <footer class="footer">
+          <div class="nav-footer">
+            <div class="nav-footer-left">
+              <p><span class="faux-block">Image credit: MPIfG/AD</span></p>
+            </div>
+            <div class="nav-footer-center">&nbsp;</div>
+            <div class="nav-footer-right">&nbsp;</div>
+          </div>
+        </footer>
 ---
 
 ::: {.home-container}

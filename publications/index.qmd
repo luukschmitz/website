@@ -7,48 +7,66 @@ This is an overview of my academic and non-academic publications, as well as ong
 
 ## Journal articles
 
-Ergen, T., & **Schmitz, L**. (2025): Picking Losers: Climate Change and Managed Decline in the European Union. *Regulation & Governance*. [Paper](https://onlinelibrary.wiley.com/doi/10.1111/rego.70004).
+2026 \| The Costs of Conditionality. IPCEIs and the Constrained Politics of EU Industrial Policy (with T. Seidl and T. Wuttke). *Competition and Change* 30(2). [Paper](https://journals.sagepub.com/doi/10.1177/10245294251320675) \| [online appendix](https://journals.sagepub.com/doi/10.1177/10245294251320675#appendix).
 
-**Schmitz, L**., Seidl, T. & Wuttke, T. (2025): The costs of conditionality. IPCEIs and the constrained politics of EU industrial policy. *Competition & Change*. [Paper](https://journals.sagepub.com/doi/10.1177/10245294251320675) \| [online appendix](https://journals.sagepub.com/doi/10.1177/10245294251320675#appendix).
+2025 \| Picking Losers: Climate Change and Managed Decline in the European Union (with T. Ergen). *Regulation & Governance*, 19(2), 383–398. [Paper](https://onlinelibrary.wiley.com/doi/10.1111/rego.70004).
 
-Seidl, T., & S**chmitz, L**. (2024): Moving on not to fall behind? Technological sovereignty and the 'geo-dirigiste' turn in EU industrial policy. *Journal of European Public policy 31*(8). [Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2248204) \| [replication materials](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2023.2248204?scroll=top).
+2024 \| Moving on to not fall behind? Technological sovereignty and the ‘geo-dirigiste’ turn in EU industrial policy (with T. Seidl). *Journal of European Public Policy*, 31(8), 2147–2174. [Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2248204) \| [replication materials](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2023.2248204?scroll=top).
 
-Di Carlo, D., & **Schmitz, L**. (2023): Europe First? The rise of EU industrial policy promoting and protecting the single market. *Journal of European Public Policy 30*(10). [Paper](#0).
+2023 \| Europe first? The rise of EU industrial policy promoting and protecting the single market (with D. Di Carlo). *Journal of European Public Policy*, 30(10), 2063–2096. [Paper](https://doi.org/10.1080/13501763.2023.2202684).
 
-**Schmitz, L**., & Seidl, T. (2023): As open as possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy. *Journal of Common Market Studies* *61*(3). [Paper](#0).
+2023 \| As Open as Possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy (with T. Seidl). *JCMS: Journal of Common Market Studies*, 61: 834–852. [Paper](https://doi.org/10.1111/jcms.13428).
 
-**Schmitz, L**., & Eimer, T.R. (2020): From Coherence to Coheritization**:** explaining the rise of policy coherence in EU external policy. *Globalizations 17*(4). [Paper](https://www.tandfonline.com/doi/full/10.1080/14747731.2019.1676103).
+2020 \| From coherence to coheritization: explaining the rise of policy coherence in EU external policy (with T. Eimer). *Globalizations*, 17(4), 629–647. [Paper](https://www.tandfonline.com/doi/full/10.1080/14747731.2019.1676103).
 
 ## Book chapters
 
-(with Andrea K. Gerlak and colleagues): Power(ful) and Power(less): A Review of Power in the ESG--Agency Scholarship. In M. Betsill, T. Benney, & A. Gerlak (Eds.), Agency in Earth System Governance (pp. 65-72). Cambridge: Cambridge University Press. [Chapter](https://www.cambridge.org/core/books/abs/agency-in-earth-system-governance/powerful-and-powerless-a-review-of-power-in-the-esgagency-scholarship/29D6B6636BC9230E45E0B20C5247CC3A).
+2020 \| Power(ful) and Power(less): A Review of Power in the ESG–Agency Scholarship (with Andrea Gerlak et al.), in: Michele M. Betsill, Tabitha M. Benney & Andrea Gerlak (eds): *Agency in Earth System Governance*, Cambridge: Cambridge University Press. [Chapter](https://www.cambridge.org/core/books/abs/agency-in-earth-system-governance/powerful-and-powerless-a-review-of-power-in-the-esgagency-scholarship/29D6B6636BC9230E45E0B20C5247CC3A).
+
+## Book project
+
+Stacking Order: Technology and the Remaking of Global Interdependence. *Book manuscript in preparation.*
 
 ## Working papers
 
-Cova, J., & **Schmitz, L**. (2024): A primer for the use of classifier and generative large language models in social science research. *OSF Preprint*. [Paper](https://osf.io/preprints/osf/r3qng_v1) \| [replication materials](https://github.com/joshcova/LLMs-for-social-scientists/tree/main).
+2026 \| Hierarchies of Adaptation. Corporate Power in Economic Statecraft. *OSF Preprint*. [Paper](https://osf.io/preprints/socarxiv/gwuce_v1).
 
-**Schmitz, L**., Seidl, T. & Wuttke, T. (2024): The Costs of Conditionality. IPCEIs and the Constrained Politics of EU Industrial Policy. *OSF preprint*. [Paper](https://osf.io/preprints/osf/f63gd).
+2024 \| A Primer for the use of Classifier and Generative Large Language Models in Social Science Research (with J. Cova). *OSF Preprint*. [Paper](https://osf.io/preprints/osf/r3qng_v1) \| [replication materials](https://github.com/joshcova/LLMs-for-social-scientists/tree/main).
 
-Ergen, T., & **Schmitz, L** (2023): The Sunshine Problem. Climate Change and Managed Decline in the European Union. *MPIfG discussion paper 2023/6*. [Paper](https://pure.mpg.de/pubman/item/item_3559564_2/component/file_3559565/mpifg_dp23_6.pdf).
-
-**Schmitz, L**., & Seidl, T. (2022): Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU's Trade and Digital Policies. *OSF preprint*. [Paper](https://doi.org/10.31235/osf.io/wjb64).
+2022 \| Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU's Trade and Digital Policies (with T. Seidl). *OSF Preprint*. [Paper](https://doi.org/10.31235/osf.io/wjb64).
 
 ## Work in progress
 
-Hierarchies of Adaptation: Corporate Power in Economic Statecraft. *Under review*.
+Planning the Tech-Industrial Complex: Sourcing-in, Crowding Out, and Power in the AI Stack (with L. Dagorne). *Under review.*
 
-The Return of Vertical Integration in Corporate Organization (with P. Gerbaudo & G.Anzolin). *Manuscript in progress*.
+The Geopolitical Construction of Markets: Conversion, Enrollment, and Entrenchment. *Manuscript available upon request.*
 
-When External Pressures Shift Domestic Coalitions: Industrial Policy Change in the Netherlands (with J.Simons). *Unpublished Manuscript (available upon request)*.
+Vertical Integration in the Electric Vehicle Revolution: Evidence from BYD, Tesla, Toyota, and Volkswagen (with P. Gerbaudo & G. Anzolin). *Manuscript available upon request.*
 
-Extractive Integration under Strategic Autonomy: Ukraine and the EU’s Critical Raw Materials Strategy (with D.Karas). *Manuscript in progress*.
+Exit, Coalitions, and Anomy: Business Politics under Geoeconomics. *Paper in progress.*
 
-## Media & miscellaneous
+Patriots or Profiteurs? Corporate Agency in the EU's Geoeconomic Turn (with R. Bosticco). *Paper in progress.*
 
-Backlash. *De Groene Amsterdammer*. [Interview](https://www.groene.nl/artikel/backlash).
+What Is Different About Chinese Automotive Capitalism? EV Industrial Stacks, Growth Model Pressures, and Geopolitical Steering (with P. Polyak). *Paper in progress.*
 
-De Europese markt heeft industriepolitiek op Europees niveau nodig. *NRC Handelsblad* (with Jasper H. van Dijk). Opinion piece ([paywalled](https://www.nrc.nl/nieuws/2023/03/12/de-europese-markt-heeft-industriepolitiek-op-europees-niveau-nodig-a4159212)).
+When External Pressures Shift Domestic Coalitions: Industrial Policy Change in the Netherlands (with J. Simons). *Manuscript available upon request.*
 
-As open as Possible, as Autonomous as Necessary -- Understanding the Rise of Open Strategic Autonomy. (with Timo Seidl). *Ideas on Europe Blog* [entry](https://jcms.ideasoneurope.eu/2022/11/03/as-open-as-possible-as-autonomous-as-necessary-understanding-the-rise-of-open-strategic-autonomy/).
+Whose Strategic Autonomy? Ukraine and the EU's Critical Raw Materials Strategy (with D. Karas). *Manuscript available upon request.*
 
-Reflections on how COVID-19 is reshaping the EU's industrial strategy. *EUIdeas blog* [entry](https://euideas.eui.eu/2020/06/04/reflections-on-how-covid-19-is-reshaping-the-eus-industrial-strategy/).
+## Policy briefs
+
+2026 \| Industrial Policy Conditionality: A Guide for Users. *New Energy Industrial Policy Center*.
+
+2024 \| The Costs of Conditionality: Lessons from IPCEIs (with T. Seidl and T. Wuttke). Rome: *LUHNIP Policy Brief 2/2024*.
+
+2015 \| Central and Eastern European countries at the crossroads: Why governments should reject investment arbitration in TTIP (with C. Olivet). Amsterdam: *Transnational Institute*.
+
+## Media and other writings
+
+2023 \| Backlash. Article where my work on climate change and deindustrialization is discussed (in Dutch). *De Groene Amsterdammer*. [Article](https://www.groene.nl/artikel/backlash).
+
+2023 \| Opinion piece about EU industrial policy (in Dutch, with J.H. van Dijk). *NRC Handelsblad*. [Article](https://www.nrc.nl/nieuws/2023/03/12/de-europese-markt-heeft-industriepolitiek-op-europees-niveau-nodig-a4159212) (paywalled).
+
+2022 \| Blog version of As Open as Possible (with T. Seidl). *JCMS Ideas on Europe*. [Entry](https://jcms.ideasoneurope.eu/2022/11/03/as-open-as-possible-as-autonomous-as-necessary-understanding-the-rise-of-open-strategic-autonomy/).
+
+2020 \| Reflections on how COVID-19 is reshaping the EU's industrial strategy. *EUIdeas*. [Entry](https://euideas.eui.eu/2020/06/04/reflections-on-how-covid-19-is-reshaping-the-eus-industrial-strategy/).
